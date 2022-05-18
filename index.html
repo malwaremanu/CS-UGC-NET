@@ -1,0 +1,74 @@
+<html>
+    <head>
+        <title>UGC NET GYAN</title>
+        <script src="https://cdn.tailwindcss.com"></script>
+    </head>
+<body class="bg-black ">
+<div class="p-5 text-white flex justify-between items-center">
+    <div> UGC NET </div>
+    <div id="last_updated_on"> </div>
+</div>
+    <style>
+        table {
+          border-collapse: collapse;
+          width: 100%;
+        }
+        
+        td, th {
+          background-color: #0a0a0a;
+          color: white;
+          text-align: left;
+          padding: 8px;
+        }
+        
+        tr:nth-child(even) {
+          background-color: #0a0a0a;
+        }
+        </style>
+
+<table id="data">
+  <tr>
+    <th>Serial Number</th>
+    <th>Title</th>
+    <th>Timestamp</th>
+  </tr>
+</table>
+
+<script>
+    var url_id = '624fd24b0c0548144e68e67b'
+    var json_data = {}
+    let headersList = {
+    "TOKEN": "00cf9f058c63b5a4d15ac81db259ced9",
+    
+    "Authorization": "Bearer 80DF6APRL231987KF3D95824CDBBAE6A168"
+    }
+
+    function fetch_details() {
+                fetch('http://gyandeepcoachingcenter.onlinetestpanel.com/api/tests/load_resource_std/'+ url_id +'/1', { 
+                    method: 'GET',
+                    headers: headersList
+                }).then(function(response) {
+                    return response.text();
+                }).then(function(data) {
+                    json_data = JSON.parse(data)['data']                                                    
+                    for(i in json_data){
+                        var intt = 1 + parseInt(i)
+
+                        var myDate = new Date(json_data[i]['time_schedule'] *1000);
+                        var dd = myDate.toLocaleDateString()+" "+myDate.toLocaleTimeString()
+                        document.getElementById('last_updated_on').innerHTML = dd
+                        // console.log(typeof parseInt(i))
+                        document.getElementById('data').innerHTML += `
+                        <tr> <td> `+ intt +`</td><td><a class="" href="`+ json_data[i]['streaming_url'] + `">` + json_data[i]['title'] + `</a></td><td> ` + dd + ` </td></tr>
+                        `
+                    }
+                    
+                })
+            } 
+            fetch_details()
+</script>
+
+</body>
+</html>
+
+    
