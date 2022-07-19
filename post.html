@@ -1,0 +1,19 @@
+<script>
+
+let headersList = {
+ "Content-Type": "application/json",
+ "Authorization": "Bearer e02840eb015ce97483559f7a429d37"
+}
+
+fetch("http://127.0.0.1:57294/api/collections/get/Posts", { 
+  method: "GET",
+  headers: headersList
+}).then(function(response) {
+  return response.text();
+}).then(function(data) {
+  console.log(data);
+})
+
+
+
+</script>

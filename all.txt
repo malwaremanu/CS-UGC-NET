@@ -1,0 +1,316 @@
+Number System l Digital Electronics l Lecture 1
+https://www.youtube-nocookie.com/embed/qgPIQEY-ZU8?modestbranding=1
+----
+Number System Conversion l Digital Electronics l Lecture 2
+https://www.youtube-nocookie.com/embed/WPypJUu0fj0?modestbranding=1
+----
+Number System - conversion l Digital Electronics l Lecture 3
+https://www.youtube-nocookie.com/embed/o1PABtvg2zE?modestbranding=1
+----
+Number Representation l Digital Electronics l Lecture 4
+https://www.youtube-nocookie.com/embed/d90Qc8mUIgU?modestbranding=1
+----
+Number Representation l Digital Electronics l Lecture 5
+https://www.youtube-nocookie.com/embed/NjQQ3xVOwlc?modestbranding=1
+----
+Boolean Algebra l Digital Electronics l Lecture 6
+https://www.youtube-nocookie.com/embed/89libS3CdsU?modestbranding=1
+----
+Boolean expression l Digital Electronics l Lecture 7
+https://www.youtube-nocookie.com/embed/Pga_xqtD8Ew?modestbranding=1
+----
+K-map l Digital Electronics l Lecture 8
+https://www.youtube-nocookie.com/embed/10qJVuelSbk?modestbranding=1
+----
+Kmap 2 l Digital Electronics l Lecture 9
+https://www.youtube-nocookie.com/embed/9YhrRF8PBy0?modestbranding=1
+----
+kmap 3 l Digital Electronics l Lecture 10
+https://www.youtube-nocookie.com/embed/SAWJjfn8QP4?modestbranding=1
+----
+kmap 4 l Digital Electronics  l Lecture 11
+https://www.youtube-nocookie.com/embed/nkx5sVfBEHQ?modestbranding=1
+----
+Combinational Circuit l Digital Electronics l Lecture 12
+https://www.youtube-nocookie.com/embed/wqbqsMHWWMo?modestbranding=1
+----
+Combinational circuit 2 l Digital Electronics l Lecture 13
+https://www.youtube-nocookie.com/embed/jWsGz0cTWbc?modestbranding=1
+----
+Combinational  circuits 3 I digital Electronics l Lecture 14
+https://www.youtube-nocookie.com/embed/S29SCc5i3Bw?modestbranding=1
+----
+Combinational circuit 4 l Digital Electronics l Lecture 15
+https://www.youtube-nocookie.com/embed/CJG4iV0mLMQ?modestbranding=1
+----
+Sequential circuit l Digital Electronics l Lecture 16
+https://www.youtube-nocookie.com/embed/GiudPtxoHUE?modestbranding=1
+----
+Sequential circuit 2 l Digital Electronics l Lecture 17
+https://www.youtube-nocookie.com/embed/Rzd0LFBIUWg?modestbranding=1
+----
+Sequential circuit 3 l Digital Electronics l Lecture 18
+https://www.youtube-nocookie.com/embed/kiTBeJgRnOg?modestbranding=1
+----
+Code conversion and binary arithmetic operation l Digital Electronics l Lecture 19
+https://www.youtube-nocookie.com/embed/VkPzsaJitEU?modestbranding=1
+----
+Doubt session l Digital Electronics l Lecture 20
+https://www.youtube-nocookie.com/embed/JKytXntW0EE?modestbranding=1
+----
+Introduction l Data Structure l Lecture 1
+https://www.youtube-nocookie.com/embed/uySN0tQT48E?modestbranding=1
+----
+Array l Data Structure l Lecture 2
+https://www.youtube-nocookie.com/embed/RHS4EeOZUic?modestbranding=1
+----
+Stack l Data Structure l Lecture 3
+----
+Stack 2 l Data Structure l Lecture 4
+https://www.youtube-nocookie.com/embed/pPc4wi7sTjg?modestbranding=1
+----
+Queue l Data Structure l Lecture 5
+https://www.youtube-nocookie.com/embed/y98_QLMgmmg?modestbranding=1
+----
+Linked List l Data Structure l Lecture 6
+https://www.youtube-nocookie.com/embed/fzckrM6sdrs?modestbranding=1
+----
+Tree l Data Structure l Lecture 7
+https://www.youtube-nocookie.com/embed/cMXjSMsYe1k?modestbranding=1
+----
+Binary tree l Data Structure l Lecture 8
+https://www.youtube-nocookie.com/embed/pi1KHOSXQG8?modestbranding=1
+----
+Tree traversal l Data Structure l Lecture 9
+https://www.youtube-nocookie.com/embed/8P1Zh3OhdY0?modestbranding=1
+----
+Binary tree construction l Data Structure l Lecture 10
+https://www.youtube-nocookie.com/embed/mke2N7aHRUs?modestbranding=1
+----
+Binary Search Tree l Data Structure l Lecture- 11
+https://www.youtube-nocookie.com/embed/4XR9AUXZZt8?modestbranding=1
+----
+AVL tree l Data Structure l Lecture 12
+https://www.youtube-nocookie.com/embed/Vp0uIxO5RgA?modestbranding=1
+----
+Red Black tree l Data Structure l Lecture 13
+https://www.youtube-nocookie.com/embed/zNKnppLWXbU?modestbranding=1
+----
+Sorting l Data Structure l Lecture 14
+https://www.youtube-nocookie.com/embed/t5qp0SV3sck?modestbranding=1
+----
+Sorting 2 l Data Structure l Lecture 15
+https://www.youtube-nocookie.com/embed/E9y3uva3UZY?modestbranding=1
+----
+Searching l Data Structure l Lecture 16
+https://www.youtube-nocookie.com/embed/ctmOqnaNJhk?modestbranding=1
+----
+Hashing l Data Structure l Lecture 17
+https://www.youtube-nocookie.com/embed/hQcEB10yXPc?modestbranding=1
+----
+Graph Traversal l Algorithm | Lecture 1
+https://www.youtube-nocookie.com/embed/M_DkEGVmRpQ?modestbranding=1
+----
+MST l Algorithm l Lecture 2
+https://www.youtube-nocookie.com/embed/nD9yLkAVgBs?modestbranding=1
+----
+Algorithm l Lecture - 3
+https://www.youtube-nocookie.com/embed/0VjZWX6vg8A?modestbranding=1
+----
+Algorithm l Lecture 4
+https://www.youtube-nocookie.com/embed/Uaq2s4YiEgU?modestbranding=1
+----
+Algorithm l Lecture 5
+https://www.youtube-nocookie.com/embed/5NL3A5VCR4Y?modestbranding=1
+----
+Algorithm l Lecture 6
+https://www.youtube-nocookie.com/embed/cB2YahooFzY?modestbranding=1
+----
+Computer Networking l Lecture 1
+https://www.youtube-nocookie.com/embed/O-T6aFwt7h8?modestbranding=1
+----
+Computer Networking | Lecture - 2
+https://www.youtube-nocookie.com/embed/HNQbKmY3nAk?modestbranding=1
+----
+Computer Networking | Lecture - 3
+https://www.youtube-nocookie.com/embed/UdSSj-cdof4?modestbranding=1
+----
+Computer Networking | Lecture - 4
+https://www.youtube-nocookie.com/embed/fgtW-_zdd3M?modestbranding=1
+----
+Computer Networking | Lecture - 5
+https://www.youtube-nocookie.com/embed/FwpWfbn3ZTI?modestbranding=1
+----
+Computer Networking | Lecture - 6
+https://www.youtube-nocookie.com/embed/NruNXPIl2bc?modestbranding=1
+----
+Computer Networking | Lecture - 7
+https://www.youtube-nocookie.com/embed/bwiSW5RyYOk?modestbranding=1
+----
+Computer Networking | Lecture - 8
+https://www.youtube-nocookie.com/embed/O2w4_dCLmQY?modestbranding=1
+----
+Computer Networking | Lecture - 9
+https://www.youtube-nocookie.com/embed/tVTT1a5Ii_A?modestbranding=1
+----
+Computer Networking | Lecture - 10
+https://www.youtube-nocookie.com/embed/ddsWqQfScPA?modestbranding=1
+----
+Computer Networking | Lecture - 11
+https://www.youtube-nocookie.com/embed/gbQr0Rxz1Fg?modestbranding=1
+----
+Operating system | Lecture - 1
+https://www.youtube-nocookie.com/embed/mb-L0RNRIUk?modestbranding=1
+----
+Operating system | Lecture - 2
+https://www.youtube-nocookie.com/embed/Em5CegkAARs?modestbranding=1
+----
+Operating system | Lecture - 3
+https://www.youtube-nocookie.com/embed/jDa1Qob0dYk?modestbranding=1
+----
+Operating system | Lecture - 4
+https://www.youtube-nocookie.com/embed/pzGJ4YCO_vQ?modestbranding=1
+----
+Operating system | Lecture - 5
+https://www.youtube-nocookie.com/embed/sHYYSiFSKHc?modestbranding=1
+----
+Operating system | Lecture - 6
+https://www.youtube-nocookie.com/embed/O6GXkPoRyEQ?modestbranding=1
+----
+Operating system | Lecture - 7
+https://www.youtube-nocookie.com/embed/fzHR_XH-IrU?modestbranding=1
+----
+Operating system | Lecture - 8
+https://www.youtube-nocookie.com/embed/PWyxuO1Hpqc?modestbranding=1
+----
+Operating system | Lecture - 9
+https://www.youtube-nocookie.com/embed/Fd3Ti7nYEtQ?modestbranding=1
+----
+Operating system | Lecture - 10
+https://www.youtube-nocookie.com/embed/FY5GoJSsPZg?modestbranding=1
+----
+Operating system | Lecture - 11
+https://www.youtube-nocookie.com/embed/bK_w1U8wN8k?modestbranding=1
+----
+Operating System
+----
+DBMS l Lecture 1
+https://www.youtube-nocookie.com/embed/9etJf2l7c8o?modestbranding=1
+----
+DBMS l Lecture 2
+https://www.youtube-nocookie.com/embed/wOEAi4U4Nxo?modestbranding=1
+----
+DBMS l Lecture 3
+https://www.youtube-nocookie.com/embed/05yfjMsPmCE?modestbranding=1
+----
+DBMS l Lecture 3
+https://www.youtube-nocookie.com/embed/ZDhnR-obIxw?modestbranding=1
+----
+DBMS l Lecture 4
+https://www.youtube-nocookie.com/embed/VVE7hCSRfiE?modestbranding=1
+----
+DBMS l Lecture 5
+https://www.youtube-nocookie.com/embed/P3CDxo_qJ_0?modestbranding=1
+----
+DBMS l Lecture 6
+https://www.youtube-nocookie.com/embed/sD9sM6I0CSs?modestbranding=1
+----
+DBMS l Lecture 7
+https://www.youtube-nocookie.com/embed/EG_jTE3elfg?modestbranding=1
+----
+DBMS l Lecture 8
+https://www.youtube-nocookie.com/embed/K098Y04tsg0?modestbranding=1
+----
+DBMS l Lecture 9
+https://www.youtube-nocookie.com/embed/ZImE4fjUy08?modestbranding=1
+----
+DBMS l Lecture 10
+https://www.youtube-nocookie.com/embed/FJbTI-ZjegI?modestbranding=1
+----
+DBMS l Lecture 11
+https://www.youtube-nocookie.com/embed/YoJV-S7V_n0?modestbranding=1
+----
+DBMS l Lecture 12
+https://www.youtube-nocookie.com/embed/iYCGOxtF78g?modestbranding=1
+----
+DBMS l Lecture 13
+https://www.youtube-nocookie.com/embed/iHED1KXAarw?modestbranding=1
+----
+DBMS l Lecture 14
+https://www.youtube-nocookie.com/embed/4OVk858fang?modestbranding=1
+----
+DBMS l Lecture 15
+https://www.youtube-nocookie.com/embed/G3vcmBan0Pc?modestbranding=1
+----
+DBMS
+----
+COA | Lecture 1
+https://www.youtube-nocookie.com/embed/TMLqPfFEk68?modestbranding=1
+----
+COA | Lecture 2
+https://www.youtube-nocookie.com/embed/WCH_rDvluUI?modestbranding=1
+----
+COA | Lecture 3
+https://www.youtube-nocookie.com/embed/1mVC1ZfVStk?modestbranding=1
+----
+COA | Lecture - 4 ( Addressing Modes )
+https://www.youtube-nocookie.com/embed/cntOiYlS6GE?modestbranding=1
+----
+Introduction l TOC l Lecture 1
+https://www.youtube-nocookie.com/embed/s-Z5MyC0xeo?modestbranding=1
+----
+Grammar l TOC l Lecture 2
+https://www.youtube-nocookie.com/embed/9CRQPJsxfH8?modestbranding=1
+----
+DFA / NFA l TOC l Lecture 3
+https://www.youtube-nocookie.com/embed/caiobMJiJrE?modestbranding=1
+----
+Regular Language l TOC l Lecture 4
+https://www.youtube-nocookie.com/embed/nz4BD-oiBGw?modestbranding=1
+----
+CFL l TOC l Lecture 5
+https://www.youtube-nocookie.com/embed/Kl_OkODbJQE?modestbranding=1
+----
+CSL l LBA l TOC l Lecture 6
+https://www.youtube-nocookie.com/embed/LHmrQ6c6lys?modestbranding=1
+----
+Closure Properties of Language l TOC l Lecture 7
+https://www.youtube-nocookie.com/embed/ODKwemHpd_Y?modestbranding=1
+----
+Programming in C / Lecture -1
+https://www.youtube-nocookie.com/embed/iEks5VxqfP0?modestbranding=1
+----
+Programming in C ( Lecture - 2 )
+https://www.youtube-nocookie.com/embed/6aygRTFIp60?modestbranding=1
+----
+Programming in C ( Lecture - 3 )
+https://www.youtube-nocookie.com/embed/dcNW0cE0FRI?modestbranding=1
+----
+Programming in C ( Lecture - 4 )
+https://www.youtube-nocookie.com/embed/Ui_HvKjSCdA?modestbranding=1
+----
+Programmimg in C | Lecture 5
+https://www.youtube-nocookie.com/embed/ukqev0slk80?modestbranding=1
+----
+Programming in C | Lecture 6
+----
+Programming in C | Lecture 7
+----
+Compiler | Lecture 1
+https://www.youtube-nocookie.com/embed/6ltxVaPC14A?modestbranding=1
+----
+Compiler | Lecture 2
+https://www.youtube-nocookie.com/embed/E6lLjJVFMu8?modestbranding=1
+----
+Compiler | Lecture 3
+https://www.youtube-nocookie.com/embed/PpbuOno0HAg?modestbranding=1
+----
+Compiler | Lecture 4
+https://www.youtube-nocookie.com/embed/S3aQ5Wo-UEg?modestbranding=1
+----
+Compiler | Lecture 5
+https://www.youtube-nocookie.com/embed/iJ4KYul1hGs?modestbranding=1
+----
+Compiler | Lecture 6
+https://www.youtube-nocookie.com/embed/UtQPxuIT8gA?modestbranding=1
+----

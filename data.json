@@ -1,0 +1,1730 @@
+{
+    "status": true,
+    "data": [
+        {
+            "_id": {
+                "$oid": "613cb6f96c96de3a1f4e7d97"
+            },
+            "title": "Number System l Digital Electronics l Lecture 1",
+            "video_type": "live",
+            "status": 1,
+            "streaming_url": "https:\/\/www.youtube-nocookie.com\/embed\/qgPIQEY-ZU8?modestbranding=1",
+            "time_schedule": 1631374200,
+            "watch_limit": "no",
+            "live_status": 2,
+            "live_source": "youtube",
+            "vod_thumbnail": "https:\/\/uxwing.com\/wp-content\/themes\/uxwing\/download\/32-video-photography-multimedia\/video.png",
+            "type": "Live Video",
+            "free": "yes"
+        },
+        {
+            "_id": {
+                "$oid": "613e063788a65d162c1a39be"
+            },
+            "title": "Number System Conversion l Digital Electronics l Lecture 2",
+            "video_type": "live",
+            "status": 1,
+            "streaming_url": "https:\/\/www.youtube-nocookie.com\/embed\/WPypJUu0fj0?modestbranding=1",
+            "time_schedule": 1631460600,
+            "watch_limit": "no",
+            "live_status": 2,
+            "live_source": "youtube",
+            "vod_thumbnail": "https:\/\/uxwing.com\/wp-content\/themes\/uxwing\/download\/32-video-photography-multimedia\/video.png",
+            "type": "Live Video",
+            "free": "yes"
+        },
+        {
+            "_id": {
+                "$oid": "6140b742738af72b7a66b68e"
+            },
+            "title": "Number System - conversion l Digital Electronics l Lecture 3",
+            "video_type": "live",
+            "status": 1,
+            "streaming_url": "https:\/\/www.youtube-nocookie.com\/embed\/o1PABtvg2zE?modestbranding=1",
+            "time_schedule": 1631633400,
+            "watch_limit": "no",
+            "live_status": 2,
+            "live_source": "youtube",
+            "watch_time": "",
+            "vod_thumbnail": "https:\/\/uxwing.com\/wp-content\/themes\/uxwing\/download\/32-video-photography-multimedia\/video.png",
+            "type": "Live Video",
+            "free": "yes"
+        },
+        {
+            "_id": {
+                "$oid": "6141fe9d2f6ce660d139173a"
+            },
+            "title": "Number Representation l Digital Electronics l Lecture 4",
+            "video_type": "live",
+            "status": 1,
+            "streaming_url": "https:\/\/www.youtube-nocookie.com\/embed\/d90Qc8mUIgU?modestbranding=1",
+            "time_schedule": 1631719800,
+            "watch_limit": "no",
+            "live_status": 2,
+            "live_source": "youtube",
+            "vod_thumbnail": "https:\/\/uxwing.com\/wp-content\/themes\/uxwing\/download\/32-video-photography-multimedia\/video.png",
+            "type": "Live Video",
+            "free": "no"
+        },
+        {
+            "_id": {
+                "$oid": "614352b4aee76163ee52df2e"
+            },
+            "title": "Number Representation l Digital Electronics l Lecture 5",
+            "video_type": "live",
+            "status": 1,
+            "streaming_url": "https:\/\/www.youtube-nocookie.com\/embed\/NjQQ3xVOwlc?modestbranding=1",
+            "time_schedule": 1631806200,
+            "watch_limit": "no",
+            "live_status": 2,
+            "live_source": "youtube",
+            "vod_thumbnail": "https:\/\/uxwing.com\/wp-content\/themes\/uxwing\/download\/32-video-photography-multimedia\/video.png",
+            "type": "Live Video",
+            "free": "no"
+        },
+        {
+            "_id": {
+                "$oid": "6144a4060a303b461b1e6978"
+            },
+            "title": "Boolean Algebra l Digital Electronics l Lecture 6",
+            "video_type": "live",
+            "status": 1,
+            "streaming_url": "https:\/\/www.youtube-nocookie.com\/embed\/89libS3CdsU?modestbranding=1",
+            "time_schedule": 1631892600,
+            "watch_limit": "no",
+            "live_status": 2,
+            "live_source": "youtube",
+            "vod_thumbnail": "https:\/\/uxwing.com\/wp-content\/themes\/uxwing\/download\/32-video-photography-multimedia\/video.png",
+            "type": "Live Video",
+            "free": "no"
+        },
+        {
+            "_id": {
+                "$oid": "61473f44b9bebb62dc7f5ba3"
+            },
+            "title": "Boolean expression l Digital Electronics l Lecture 7",
+            "video_type": "live",
+            "status": 1,
+            "streaming_url": "https:\/\/www.youtube-nocookie.com\/embed\/Pga_xqtD8Ew?modestbranding=1",
+            "time_schedule": 1632065400,
+            "watch_limit": "no",
+            "live_status": 2,
+            "live_source": "youtube",
+            "vod_thumbnail": "https:\/\/uxwing.com\/wp-content\/themes\/uxwing\/download\/32-video-photography-multimedia\/video.png",
+            "type": "Live Video",
+            "free": "no"
+        },
+        {
+            "_id": {
+                "$oid": "61489a6c164499406f1ff4a6"
+            },
+            "title": "K-map l Digital Electronics l Lecture 8",
+            "video_type": "live",
+            "status": 1,
+            "streaming_url": "https:\/\/www.youtube-nocookie.com\/embed\/10qJVuelSbk?modestbranding=1",
+            "time_schedule": 1632151800,
+            "watch_limit": "no",
+            "live_status": 2,
+            "live_source": "youtube",
+            "vod_thumbnail": "https:\/\/uxwing.com\/wp-content\/themes\/uxwing\/download\/32-video-photography-multimedia\/video.png",
+            "type": "Live Video",
+            "free": "no"
+        },
+        {
+            "_id": {
+                "$oid": "614b3bf9d7a5347439403207"
+            },
+            "title": "Kmap 2 l Digital Electronics l Lecture 9",
+            "video_type": "live",
+            "status": 1,
+            "streaming_url": "https:\/\/www.youtube-nocookie.com\/embed\/9YhrRF8PBy0?modestbranding=1",
+            "time_schedule": 1632324600,
+            "watch_limit": "no",
+            "live_status": 2,
+            "live_source": "youtube",
+            "vod_thumbnail": "https:\/\/uxwing.com\/wp-content\/themes\/uxwing\/download\/32-video-photography-multimedia\/video.png",
+            "type": "Live Video",
+            "free": "no"
+        },
+        {
+            "_id": {
+                "$oid": "614c92c70175df170e52de32"
+            },
+            "title": "kmap 3 l Digital Electronics l Lecture 10",
+            "video_type": "live",
+            "status": 1,
+            "streaming_url": "https:\/\/www.youtube-nocookie.com\/embed\/SAWJjfn8QP4?modestbranding=1",
+            "time_schedule": 1632366000,
+            "watch_limit": "no",
+            "live_status": 2,
+            "live_source": "youtube",
+            "watch_time": "",
+            "vod_thumbnail": "https:\/\/uxwing.com\/wp-content\/themes\/uxwing\/download\/32-video-photography-multimedia\/video.png",
+            "type": "Live Video",
+            "free": "no"
+        },
+        {
+            "_id": {
+                "$oid": "614ddb53690df95aa24fc9f0"
+            },
+            "title": "kmap 4 l Digital Electronics  l Lecture 11",
+            "video_type": "live",
+            "status": 1,
+            "streaming_url": "https:\/\/www.youtube-nocookie.com\/embed\/nkx5sVfBEHQ?modestbranding=1",
+            "time_schedule": 1632497400,
+            "watch_limit": "no",
+            "live_status": 2,
+            "live_source": "youtube",
+            "watch_time": "",
+            "vod_thumbnail": "https:\/\/uxwing.com\/wp-content\/themes\/uxwing\/download\/32-video-photography-multimedia\/video.png",
+            "type": "Live Video",
+            "free": "no"
+        },
+        {
+            "_id": {
+                "$oid": "615081d6d784dd395935e44c"
+            },
+            "title": "Combinational Circuit l Digital Electronics l Lecture 12",
+            "video_type": "live",
+            "status": 1,
+            "streaming_url": "https:\/\/www.youtube-nocookie.com\/embed\/wqbqsMHWWMo?modestbranding=1",
+            "time_schedule": 1632614400,
+            "watch_limit": "no",
+            "live_status": 2,
+            "live_source": "youtube",
+            "watch_time": "",
+            "vod_thumbnail": "https:\/\/uxwing.com\/wp-content\/themes\/uxwing\/download\/32-video-photography-multimedia\/video.png",
+            "type": "Live Video",
+            "free": "no"
+        },
+        {
+            "_id": {
+                "$oid": "6151d339248009027339524a"
+            },
+            "title": "Combinational circuit 2 l Digital Electronics l Lecture 13",
+            "video_type": "live",
+            "status": 1,
+            "streaming_url": "https:\/\/www.youtube-nocookie.com\/embed\/jWsGz0cTWbc?modestbranding=1",
+            "time_schedule": 1632756600,
+            "watch_limit": "no",
+            "live_status": 2,
+            "live_source": "youtube",
+            "vod_thumbnail": "https:\/\/uxwing.com\/wp-content\/themes\/uxwing\/download\/32-video-photography-multimedia\/video.png",
+            "type": "Live Video",
+            "free": "no"
+        },
+        {
+            "_id": {
+                "$oid": "61532a0d99718e49be2e7e28"
+            },
+            "title": "Combinational  circuits 3 I digital Electronics l Lecture 14",
+            "video_type": "live",
+            "status": 1,
+            "streaming_url": "https:\/\/www.youtube-nocookie.com\/embed\/S29SCc5i3Bw?modestbranding=1",
+            "time_schedule": 1632787200,
+            "watch_limit": "no",
+            "live_status": 2,
+            "live_source": "youtube",
+            "watch_time": "",
+            "vod_thumbnail": "https:\/\/uxwing.com\/wp-content\/themes\/uxwing\/download\/32-video-photography-multimedia\/video.png",
+            "type": "Live Video",
+            "free": "no"
+        },
+        {
+            "_id": {
+                "$oid": "6154781740f0534b33334e2f"
+            },
+            "title": "Combinational circuit 4 l Digital Electronics l Lecture 15",
+            "video_type": "live",
+            "status": 1,
+            "streaming_url": "https:\/\/www.youtube-nocookie.com\/embed\/CJG4iV0mLMQ?modestbranding=1",
+            "time_schedule": 1632929400,
+            "watch_limit": "no",
+            "live_status": 2,
+            "live_source": "youtube",
+            "vod_thumbnail": "https:\/\/uxwing.com\/wp-content\/themes\/uxwing\/download\/32-video-photography-multimedia\/video.png",
+            "type": "Live Video",
+            "free": "no"
+        },
+        {
+            "_id": {
+                "$oid": "6155ca713dcafb06ff703e23"
+            },
+            "title": "Sequential circuit l Digital Electronics l Lecture 16",
+            "video_type": "live",
+            "status": 1,
+            "streaming_url": "https:\/\/www.youtube-nocookie.com\/embed\/GiudPtxoHUE?modestbranding=1",
+            "time_schedule": 1633015800,
+            "watch_limit": "no",
+            "live_status": 2,
+            "live_source": "youtube",
+            "vod_thumbnail": "https:\/\/uxwing.com\/wp-content\/themes\/uxwing\/download\/32-video-photography-multimedia\/video.png",
+            "type": "Live Video",
+            "free": "no"
+        },
+        {
+            "_id": {
+                "$oid": "61572bf009968c573c505361"
+            },
+            "title": "Sequential circuit 2 l Digital Electronics l Lecture 17",
+            "video_type": "live",
+            "status": 1,
+            "streaming_url": "https:\/\/www.youtube-nocookie.com\/embed\/Rzd0LFBIUWg?modestbranding=1",
+            "time_schedule": 1633059900,
+            "watch_limit": "no",
+            "live_status": 2,
+            "live_source": "youtube",
+            "watch_time": "",
+            "vod_thumbnail": "https:\/\/uxwing.com\/wp-content\/themes\/uxwing\/download\/32-video-photography-multimedia\/video.png",
+            "type": "Live Video",
+            "free": "no"
+        },
+        {
+            "_id": {
+                "$oid": "6159bf4bd27b3f20db293666"
+            },
+            "title": "Sequential circuit 3 l Digital Electronics l Lecture 18",
+            "video_type": "live",
+            "status": 1,
+            "streaming_url": "https:\/\/www.youtube-nocookie.com\/embed\/kiTBeJgRnOg?modestbranding=1",
+            "time_schedule": 1633271400,
+            "watch_limit": "no",
+            "live_status": 2,
+            "live_source": "youtube",
+            "vod_thumbnail": "https:\/\/uxwing.com\/wp-content\/themes\/uxwing\/download\/32-video-photography-multimedia\/video.png",
+            "type": "Live Video",
+            "free": "no"
+        },
+        {
+            "_id": {
+                "$oid": "615b144b63c9be63657313ce"
+            },
+            "title": "Code conversion and binary arithmetic operation l Digital Electronics l Lecture 19",
+            "video_type": "live",
+            "status": 1,
+            "streaming_url": "https:\/\/www.youtube-nocookie.com\/embed\/VkPzsaJitEU?modestbranding=1",
+            "time_schedule": 1633359600,
+            "watch_limit": "no",
+            "live_status": 2,
+            "live_source": "youtube",
+            "vod_thumbnail": "https:\/\/uxwing.com\/wp-content\/themes\/uxwing\/download\/32-video-photography-multimedia\/video.png",
+            "type": "Live Video",
+            "free": "no"
+        },
+        {
+            "_id": {
+                "$oid": "615c598e68758357b5465a3b"
+            },
+            "title": "Doubt session l Digital Electronics l Lecture 20",
+            "video_type": "live",
+            "status": 1,
+            "streaming_url": "https:\/\/www.youtube-nocookie.com\/embed\/JKytXntW0EE?modestbranding=1",
+            "time_schedule": 1633444200,
+            "watch_limit": "no",
+            "live_status": 2,
+            "live_source": "youtube",
+            "vod_thumbnail": "https:\/\/uxwing.com\/wp-content\/themes\/uxwing\/download\/32-video-photography-multimedia\/video.png",
+            "type": "Live Video",
+            "free": "no"
+        },
+        {
+            "_id": {
+                "$oid": "616adbcad9e71c2cd870e6db"
+            },
+            "title": "Introduction l Data Structure l Lecture 1",
+            "video_type": "live",
+            "status": 1,
+            "streaming_url": "https:\/\/www.youtube-nocookie.com\/embed\/uySN0tQT48E?modestbranding=1",
+            "time_schedule": 1634396400,
+            "watch_limit": "no",
+            "live_status": 2,
+            "live_source": "youtube",
+            "vod_thumbnail": "https:\/\/uxwing.com\/wp-content\/themes\/uxwing\/download\/32-video-photography-multimedia\/video.png",
+            "type": "Live Video",
+            "free": "no"
+        },
+        {
+            "_id": {
+                "$oid": "616c2a029549192d5c2e0a2e"
+            },
+            "title": "Array l Data Structure l Lecture 2",
+            "video_type": "live",
+            "status": 1,
+            "streaming_url": "https:\/\/www.youtube-nocookie.com\/embed\/RHS4EeOZUic?modestbranding=1",
+            "time_schedule": 1634482800,
+            "watch_limit": "no",
+            "live_status": 2,
+            "live_source": "youtube",
+            "vod_thumbnail": "https:\/\/uxwing.com\/wp-content\/themes\/uxwing\/download\/32-video-photography-multimedia\/video.png",
+            "type": "Live Video",
+            "free": "no"
+        },
+        {
+            "_id": {
+                "$oid": "6191ffb69afa72667c4657ee"
+            },
+            "title": "Stack l Data Structure l Lecture 3",
+            "video_type": "vod",
+            "add_type": "youtube",
+            "status": 1,
+            "video_link": "https:\/\/www.youtube.com\/watch?v=tmlllapwa_4",
+            "watch_limit": "no",
+            "vod_thumbnail": "https:\/\/uxwing.com\/wp-content\/themes\/uxwing\/download\/32-video-photography-multimedia\/video.png",
+            "type": "Video",
+            "free": "no"
+        },
+        {
+            "_id": {
+                "$oid": "6171705e4a1a3022af420792"
+            },
+            "title": "Stack 2 l Data Structure l Lecture 4",
+            "video_type": "live",
+            "status": 1,
+            "streaming_url": "https:\/\/www.youtube-nocookie.com\/embed\/pPc4wi7sTjg?modestbranding=1",
+            "time_schedule": 1634828400,
+            "watch_limit": "no",
+            "live_status": 2,
+            "live_source": "youtube",
+            "vod_thumbnail": "https:\/\/uxwing.com\/wp-content\/themes\/uxwing\/download\/32-video-photography-multimedia\/video.png",
+            "type": "Live Video",
+            "free": "no"
+        },
+        {
+            "_id": {
+                "$oid": "6172bb944919c737ea19ff7c"
+            },
+            "title": "Queue l Data Structure l Lecture 5",
+            "video_type": "live",
+            "status": 1,
+            "streaming_url": "https:\/\/www.youtube-nocookie.com\/embed\/y98_QLMgmmg?modestbranding=1",
+            "time_schedule": 1634913000,
+            "watch_limit": "no",
+            "live_status": 2,
+            "live_source": "youtube",
+            "vod_thumbnail": "https:\/\/uxwing.com\/wp-content\/themes\/uxwing\/download\/32-video-photography-multimedia\/video.png",
+            "type": "Live Video",
+            "free": "no"
+        },
+        {
+            "_id": {
+                "$oid": "6176ba156ab2f6683d1035ed"
+            },
+            "title": "Linked List l Data Structure l Lecture 6",
+            "video_type": "live",
+            "status": 1,
+            "streaming_url": "https:\/\/www.youtube-nocookie.com\/embed\/fzckrM6sdrs?modestbranding=1",
+            "time_schedule": 1635172200,
+            "watch_limit": "no",
+            "live_status": 2,
+            "live_source": "youtube",
+            "vod_thumbnail": "https:\/\/uxwing.com\/wp-content\/themes\/uxwing\/download\/32-video-photography-multimedia\/video.png",
+            "type": "Live Video",
+            "free": "no"
+        },
+        {
+            "_id": {
+                "$oid": "6178038074567624ca24a0db"
+            },
+            "title": "Tree l Data Structure l Lecture 7",
+            "video_type": "live",
+            "status": 1,
+            "streaming_url": "https:\/\/www.youtube-nocookie.com\/embed\/cMXjSMsYe1k?modestbranding=1",
+            "time_schedule": 1635260400,
+            "watch_limit": "no",
+            "live_status": 2,
+            "live_source": "youtube",
+            "vod_thumbnail": "https:\/\/uxwing.com\/wp-content\/themes\/uxwing\/download\/32-video-photography-multimedia\/video.png",
+            "type": "Live Video",
+            "free": "no"
+        },
+        {
+            "_id": {
+                "$oid": "61795c64443686295815a4a1"
+            },
+            "title": "Binary tree l Data Structure l Lecture 8",
+            "video_type": "live",
+            "status": 1,
+            "streaming_url": "https:\/\/www.youtube-nocookie.com\/embed\/pi1KHOSXQG8?modestbranding=1",
+            "time_schedule": 1635346800,
+            "watch_limit": "no",
+            "live_status": 2,
+            "live_source": "youtube",
+            "vod_thumbnail": "https:\/\/uxwing.com\/wp-content\/themes\/uxwing\/download\/32-video-photography-multimedia\/video.png",
+            "type": "Live Video",
+            "free": "no"
+        },
+        {
+            "_id": {
+                "$oid": "617ab47c1df9342fa35689ec"
+            },
+            "title": "Tree traversal l Data Structure l Lecture 9",
+            "video_type": "live",
+            "status": 1,
+            "streaming_url": "https:\/\/www.youtube-nocookie.com\/embed\/8P1Zh3OhdY0?modestbranding=1",
+            "time_schedule": 1622203200,
+            "watch_limit": "no",
+            "live_status": 2,
+            "live_source": "youtube",
+            "watch_time": "",
+            "vod_thumbnail": "https:\/\/uxwing.com\/wp-content\/themes\/uxwing\/download\/32-video-photography-multimedia\/video.png",
+            "type": "Live Video",
+            "free": "no"
+        },
+        {
+            "_id": {
+                "$oid": "617bfa71f1700d1921512002"
+            },
+            "title": "Binary tree construction l Data Structure l Lecture 10",
+            "video_type": "live",
+            "status": 1,
+            "streaming_url": "https:\/\/www.youtube-nocookie.com\/embed\/mke2N7aHRUs?modestbranding=1",
+            "time_schedule": 1635519600,
+            "watch_limit": "no",
+            "live_status": 2,
+            "live_source": "youtube",
+            "vod_thumbnail": "https:\/\/uxwing.com\/wp-content\/themes\/uxwing\/download\/32-video-photography-multimedia\/video.png",
+            "type": "Live Video",
+            "free": "no"
+        },
+        {
+            "_id": {
+                "$oid": "617d53224ea0106bf211290b"
+            },
+            "title": "Binary Search Tree l Data Structure l Lecture- 11",
+            "video_type": "live",
+            "status": 1,
+            "streaming_url": "https:\/\/www.youtube-nocookie.com\/embed\/4XR9AUXZZt8?modestbranding=1",
+            "time_schedule": 1635606000,
+            "watch_limit": "no",
+            "live_status": 2,
+            "live_source": "youtube",
+            "vod_thumbnail": "https:\/\/uxwing.com\/wp-content\/themes\/uxwing\/download\/32-video-photography-multimedia\/video.png",
+            "type": "Live Video",
+            "free": "no"
+        },
+        {
+            "_id": {
+                "$oid": "617ea0ef10274374fb5b72f4"
+            },
+            "title": "AVL tree l Data Structure l Lecture 12",
+            "video_type": "live",
+            "status": 1,
+            "streaming_url": "https:\/\/www.youtube-nocookie.com\/embed\/Vp0uIxO5RgA?modestbranding=1",
+            "time_schedule": 1635692400,
+            "watch_limit": "no",
+            "live_status": 2,
+            "live_source": "youtube",
+            "vod_thumbnail": "https:\/\/uxwing.com\/wp-content\/themes\/uxwing\/download\/32-video-photography-multimedia\/video.png",
+            "type": "Live Video",
+            "free": "no"
+        },
+        {
+            "_id": {
+                "$oid": "617ff61e2ed5dc351510c2b2"
+            },
+            "title": "Red Black tree l Data Structure l Lecture 13",
+            "video_type": "live",
+            "status": 1,
+            "streaming_url": "https:\/\/www.youtube-nocookie.com\/embed\/zNKnppLWXbU?modestbranding=1",
+            "time_schedule": 1635778800,
+            "watch_limit": "no",
+            "live_status": 2,
+            "live_source": "youtube",
+            "vod_thumbnail": "https:\/\/uxwing.com\/wp-content\/themes\/uxwing\/download\/32-video-photography-multimedia\/video.png",
+            "type": "Live Video",
+            "free": "no"
+        },
+        {
+            "_id": {
+                "$oid": "618537b831721c5a0c20e555"
+            },
+            "title": "Sorting l Data Structure l Lecture 14",
+            "video_type": "live",
+            "status": 1,
+            "streaming_url": "https:\/\/www.youtube-nocookie.com\/embed\/t5qp0SV3sck?modestbranding=1",
+            "time_schedule": 1636124400,
+            "watch_limit": "no",
+            "live_status": 2,
+            "live_source": "youtube",
+            "vod_thumbnail": "https:\/\/uxwing.com\/wp-content\/themes\/uxwing\/download\/32-video-photography-multimedia\/video.png",
+            "type": "Live Video",
+            "free": "no"
+        },
+        {
+            "_id": {
+                "$oid": "618686bbd3faa261a711415c"
+            },
+            "title": "Sorting 2 l Data Structure l Lecture 15",
+            "video_type": "live",
+            "status": 1,
+            "streaming_url": "https:\/\/www.youtube-nocookie.com\/embed\/E9y3uva3UZY?modestbranding=1",
+            "time_schedule": 1636210800,
+            "watch_limit": "no",
+            "live_status": 2,
+            "live_source": "youtube",
+            "vod_thumbnail": "https:\/\/uxwing.com\/wp-content\/themes\/uxwing\/download\/32-video-photography-multimedia\/video.png",
+            "type": "Live Video",
+            "free": "no"
+        },
+        {
+            "_id": {
+                "$oid": "6187dd65c2198a57e02c2b70"
+            },
+            "title": "Searching l Data Structure l Lecture 16",
+            "video_type": "live",
+            "status": 1,
+            "streaming_url": "https:\/\/www.youtube-nocookie.com\/embed\/ctmOqnaNJhk?modestbranding=1",
+            "time_schedule": 1636297200,
+            "watch_limit": "no",
+            "live_status": 2,
+            "live_source": "youtube",
+            "vod_thumbnail": "https:\/\/uxwing.com\/wp-content\/themes\/uxwing\/download\/32-video-photography-multimedia\/video.png",
+            "type": "Live Video",
+            "free": "no"
+        },
+        {
+            "_id": {
+                "$oid": "618931c20b2c9537db0b419d"
+            },
+            "title": "Hashing l Data Structure l Lecture 17",
+            "video_type": "live",
+            "status": 1,
+            "streaming_url": "https:\/\/www.youtube-nocookie.com\/embed\/hQcEB10yXPc?modestbranding=1",
+            "time_schedule": 1636381800,
+            "watch_limit": "no",
+            "live_status": 2,
+            "live_source": "youtube",
+            "vod_thumbnail": "https:\/\/uxwing.com\/wp-content\/themes\/uxwing\/download\/32-video-photography-multimedia\/video.png",
+            "type": "Live Video",
+            "free": "no"
+        },
+        {
+            "_id": {
+                "$oid": "618a83208f6b341e577b938d"
+            },
+            "title": "Graph Traversal l Algorithm | Lecture 1",
+            "video_type": "live",
+            "status": 1,
+            "streaming_url": "https:\/\/www.youtube-nocookie.com\/embed\/M_DkEGVmRpQ?modestbranding=1",
+            "time_schedule": 1636468200,
+            "watch_limit": "no",
+            "live_status": 2,
+            "live_source": "youtube",
+            "vod_thumbnail": "https:\/\/uxwing.com\/wp-content\/themes\/uxwing\/download\/32-video-photography-multimedia\/video.png",
+            "type": "Live Video",
+            "free": "no"
+        },
+        {
+            "_id": {
+                "$oid": "618d2157931d5e32b758191b"
+            },
+            "title": "MST l Algorithm l Lecture 2",
+            "video_type": "live",
+            "status": 1,
+            "streaming_url": "https:\/\/www.youtube-nocookie.com\/embed\/nD9yLkAVgBs?modestbranding=1",
+            "time_schedule": 1636642800,
+            "watch_limit": "no",
+            "live_status": 2,
+            "live_source": "youtube",
+            "vod_thumbnail": "https:\/\/uxwing.com\/wp-content\/themes\/uxwing\/download\/32-video-photography-multimedia\/video.png",
+            "type": "Live Video",
+            "free": "no"
+        },
+        {
+            "_id": {
+                "$oid": "618e7b04b6e9f53a634cd604"
+            },
+            "title": "Algorithm l Lecture - 3",
+            "video_type": "live",
+            "status": 1,
+            "streaming_url": "https:\/\/www.youtube-nocookie.com\/embed\/0VjZWX6vg8A?modestbranding=1",
+            "time_schedule": 1636675200,
+            "watch_limit": "no",
+            "live_status": 2,
+            "live_source": "youtube",
+            "watch_time": "",
+            "vod_thumbnail": "https:\/\/uxwing.com\/wp-content\/themes\/uxwing\/download\/32-video-photography-multimedia\/video.png",
+            "type": "Live Video",
+            "free": "no"
+        },
+        {
+            "_id": {
+                "$oid": "618fcf4ed2b62c20b321fb30"
+            },
+            "title": "Algorithm l Lecture 4",
+            "video_type": "live",
+            "status": 1,
+            "streaming_url": "https:\/\/www.youtube-nocookie.com\/embed\/Uaq2s4YiEgU?modestbranding=1",
+            "time_schedule": 1636761600,
+            "watch_limit": "no",
+            "live_status": 2,
+            "live_source": "youtube",
+            "watch_time": "",
+            "vod_thumbnail": "https:\/\/uxwing.com\/wp-content\/themes\/uxwing\/download\/32-video-photography-multimedia\/video.png",
+            "type": "Live Video",
+            "free": "no"
+        },
+        {
+            "_id": {
+                "$oid": "61911d807456ad209708117e"
+            },
+            "title": "Algorithm l Lecture 5",
+            "video_type": "live",
+            "status": 1,
+            "streaming_url": "https:\/\/www.youtube-nocookie.com\/embed\/5NL3A5VCR4Y?modestbranding=1",
+            "time_schedule": 1636848000,
+            "watch_limit": "no",
+            "live_status": 2,
+            "live_source": "youtube",
+            "watch_time": "",
+            "vod_thumbnail": "https:\/\/uxwing.com\/wp-content\/themes\/uxwing\/download\/32-video-photography-multimedia\/video.png",
+            "type": "Live Video",
+            "free": "no"
+        },
+        {
+            "_id": {
+                "$oid": "6192788f0c6bf40fc9441d2c"
+            },
+            "title": "Algorithm l Lecture 6",
+            "video_type": "live",
+            "status": 1,
+            "streaming_url": "https:\/\/www.youtube-nocookie.com\/embed\/cB2YahooFzY?modestbranding=1",
+            "time_schedule": 1636934400,
+            "watch_limit": "no",
+            "live_status": 2,
+            "live_source": "youtube",
+            "watch_time": "",
+            "vod_thumbnail": "https:\/\/uxwing.com\/wp-content\/themes\/uxwing\/download\/32-video-photography-multimedia\/video.png",
+            "type": "Live Video",
+            "free": "no"
+        },
+        {
+            "_id": {
+                "$oid": "61cefa394984d432c773be6d"
+            },
+            "title": "Computer Networking l Lecture 1",
+            "video_type": "live",
+            "status": 1,
+            "streaming_url": "https:\/\/www.youtube-nocookie.com\/embed\/O-T6aFwt7h8?modestbranding=1",
+            "time_schedule": 1640962800,
+            "watch_limit": "no",
+            "live_status": 2,
+            "live_source": "youtube",
+            "watch_time": "",
+            "vod_thumbnail": "https:\/\/uxwing.com\/wp-content\/themes\/uxwing\/download\/32-video-photography-multimedia\/video.png",
+            "type": "Live Video",
+            "free": "no"
+        },
+        {
+            "_id": {
+                "$oid": "61d14a5599c76e13ac68e4c8"
+            },
+            "title": "Computer Networking | Lecture - 2",
+            "video_type": "live",
+            "status": 1,
+            "streaming_url": "https:\/\/www.youtube-nocookie.com\/embed\/HNQbKmY3nAk?modestbranding=1",
+            "time_schedule": 1641106800,
+            "watch_limit": "no",
+            "live_status": 2,
+            "live_source": "youtube",
+            "vod_thumbnail": "https:\/\/uxwing.com\/wp-content\/themes\/uxwing\/download\/32-video-photography-multimedia\/video.png",
+            "type": "Live Video",
+            "free": "no"
+        },
+        {
+            "_id": {
+                "$oid": "61d304d102f2757fcc6cfc22"
+            },
+            "title": "Computer Networking | Lecture - 3",
+            "video_type": "live",
+            "status": 1,
+            "streaming_url": "https:\/\/www.youtube-nocookie.com\/embed\/UdSSj-cdof4?modestbranding=1",
+            "time_schedule": 1641220200,
+            "watch_limit": "no",
+            "live_status": 2,
+            "live_source": "youtube",
+            "vod_thumbnail": "https:\/\/uxwing.com\/wp-content\/themes\/uxwing\/download\/32-video-photography-multimedia\/video.png",
+            "type": "Live Video",
+            "free": "no"
+        },
+        {
+            "_id": {
+                "$oid": "61d460da6e702358ce5bf232"
+            },
+            "title": "Computer Networking | Lecture - 4",
+            "video_type": "live",
+            "status": 1,
+            "streaming_url": "https:\/\/www.youtube-nocookie.com\/embed\/fgtW-_zdd3M?modestbranding=1",
+            "time_schedule": 1641308400,
+            "watch_limit": "no",
+            "live_status": 2,
+            "live_source": "youtube",
+            "vod_thumbnail": "https:\/\/uxwing.com\/wp-content\/themes\/uxwing\/download\/32-video-photography-multimedia\/video.png",
+            "type": "Live Video",
+            "free": "no"
+        },
+        {
+            "_id": {
+                "$oid": "61d6e96885cfaf75184a6104"
+            },
+            "title": "Computer Networking | Lecture - 5",
+            "video_type": "live",
+            "status": 1,
+            "streaming_url": "https:\/\/www.youtube-nocookie.com\/embed\/FwpWfbn3ZTI?modestbranding=1",
+            "time_schedule": 1641482100,
+            "watch_limit": "no",
+            "live_status": 2,
+            "live_source": "youtube",
+            "watch_time": "",
+            "vod_thumbnail": "https:\/\/uxwing.com\/wp-content\/themes\/uxwing\/download\/32-video-photography-multimedia\/video.png",
+            "type": "Live Video",
+            "free": "no"
+        },
+        {
+            "_id": {
+                "$oid": "61d8384664e73b51a112e33b"
+            },
+            "title": "Computer Networking | Lecture - 6",
+            "video_type": "live",
+            "status": 1,
+            "streaming_url": "https:\/\/www.youtube-nocookie.com\/embed\/NruNXPIl2bc?modestbranding=1",
+            "time_schedule": 1641653100,
+            "watch_limit": "no",
+            "live_status": 2,
+            "live_source": "youtube",
+            "watch_time": "",
+            "vod_thumbnail": "https:\/\/uxwing.com\/wp-content\/themes\/uxwing\/download\/32-video-photography-multimedia\/video.png",
+            "type": "Live Video",
+            "free": "no"
+        },
+        {
+            "_id": {
+                "$oid": "61daf2b961138a12c87ea470"
+            },
+            "title": "Computer Networking | Lecture - 7",
+            "video_type": "live",
+            "status": 1,
+            "streaming_url": "https:\/\/www.youtube-nocookie.com\/embed\/bwiSW5RyYOk?modestbranding=1",
+            "time_schedule": 1641686400,
+            "watch_limit": "no",
+            "live_status": 2,
+            "live_source": "youtube",
+            "watch_time": "",
+            "vod_thumbnail": "https:\/\/uxwing.com\/wp-content\/themes\/uxwing\/download\/32-video-photography-multimedia\/video.png",
+            "type": "Live Video",
+            "free": "no"
+        },
+        {
+            "_id": {
+                "$oid": "61dc43127b69ec0cf42a0249"
+            },
+            "title": "Computer Networking | Lecture - 8",
+            "video_type": "live",
+            "status": 1,
+            "streaming_url": "https:\/\/www.youtube-nocookie.com\/embed\/O2w4_dCLmQY?modestbranding=1",
+            "time_schedule": 1641825900,
+            "watch_limit": "no",
+            "live_status": 2,
+            "live_source": "youtube",
+            "vod_thumbnail": "https:\/\/uxwing.com\/wp-content\/themes\/uxwing\/download\/32-video-photography-multimedia\/video.png",
+            "type": "Live Video",
+            "free": "no"
+        },
+        {
+            "_id": {
+                "$oid": "61dedc67e7609e4c3a7c7ecd"
+            },
+            "title": "Computer Networking | Lecture - 9",
+            "video_type": "live",
+            "status": 1,
+            "streaming_url": "https:\/\/www.youtube-nocookie.com\/embed\/tVTT1a5Ii_A?modestbranding=1",
+            "time_schedule": 1641997800,
+            "watch_limit": "no",
+            "live_status": 2,
+            "live_source": "youtube",
+            "vod_thumbnail": "https:\/\/uxwing.com\/wp-content\/themes\/uxwing\/download\/32-video-photography-multimedia\/video.png",
+            "type": "Live Video",
+            "free": "no"
+        },
+        {
+            "_id": {
+                "$oid": "61e028e01d67b071d772b493"
+            },
+            "title": "Computer Networking | Lecture - 10",
+            "video_type": "live",
+            "status": 1,
+            "streaming_url": "https:\/\/www.youtube-nocookie.com\/embed\/ddsWqQfScPA?modestbranding=1",
+            "time_schedule": 1642081500,
+            "watch_limit": "no",
+            "live_status": 2,
+            "live_source": "youtube",
+            "vod_thumbnail": "https:\/\/uxwing.com\/wp-content\/themes\/uxwing\/download\/32-video-photography-multimedia\/video.png",
+            "type": "Live Video",
+            "free": "no"
+        },
+        {
+            "_id": {
+                "$oid": "61e188af82c769110c431423"
+            },
+            "title": "Computer Networking | Lecture - 11",
+            "video_type": "live",
+            "status": 1,
+            "streaming_url": "https:\/\/www.youtube-nocookie.com\/embed\/gbQr0Rxz1Fg?modestbranding=1",
+            "time_schedule": 1642172400,
+            "watch_limit": "no",
+            "live_status": 2,
+            "live_source": "youtube",
+            "vod_thumbnail": "https:\/\/uxwing.com\/wp-content\/themes\/uxwing\/download\/32-video-photography-multimedia\/video.png",
+            "type": "Live Video",
+            "free": "no"
+        },
+        {
+            "_id": {
+                "$oid": "61e56ddf23fa1d1bae30b8d8"
+            },
+            "title": "Operating system | Lecture - 1",
+            "video_type": "live",
+            "status": 1,
+            "streaming_url": "https:\/\/www.youtube-nocookie.com\/embed\/mb-L0RNRIUk?modestbranding=1",
+            "time_schedule": 1642427100,
+            "watch_limit": "no",
+            "live_status": 2,
+            "live_source": "youtube",
+            "vod_thumbnail": "https:\/\/uxwing.com\/wp-content\/themes\/uxwing\/download\/32-video-photography-multimedia\/video.png",
+            "type": "Live Video",
+            "free": "no"
+        },
+        {
+            "_id": {
+                "$oid": "61e6c59798ab620c4327dece"
+            },
+            "title": "Operating system | Lecture - 2",
+            "video_type": "live",
+            "status": 1,
+            "streaming_url": "https:\/\/www.youtube-nocookie.com\/embed\/Em5CegkAARs?modestbranding=1",
+            "time_schedule": 1642514400,
+            "watch_limit": "no",
+            "live_status": 2,
+            "live_source": "youtube",
+            "watch_time": "",
+            "vod_thumbnail": "https:\/\/uxwing.com\/wp-content\/themes\/uxwing\/download\/32-video-photography-multimedia\/video.png",
+            "type": "Live Video",
+            "free": "no"
+        },
+        {
+            "_id": {
+                "$oid": "61e9693819f82252f93c1aed"
+            },
+            "title": "Operating system | Lecture - 3",
+            "video_type": "live",
+            "status": 1,
+            "streaming_url": "https:\/\/www.youtube-nocookie.com\/embed\/jDa1Qob0dYk?modestbranding=1",
+            "time_schedule": 1642687200,
+            "watch_limit": "no",
+            "live_status": 2,
+            "live_source": "youtube",
+            "watch_time": "",
+            "vod_thumbnail": "https:\/\/uxwing.com\/wp-content\/themes\/uxwing\/download\/32-video-photography-multimedia\/video.png",
+            "type": "Live Video",
+            "free": "no"
+        },
+        {
+            "_id": {
+                "$oid": "61eab3c24291e65983051fb2"
+            },
+            "title": "Operating system | Lecture - 4",
+            "video_type": "live",
+            "status": 1,
+            "streaming_url": "https:\/\/www.youtube-nocookie.com\/embed\/pzGJ4YCO_vQ?modestbranding=1",
+            "time_schedule": 1642778100,
+            "watch_limit": "no",
+            "live_status": 2,
+            "live_source": "youtube",
+            "watch_time": "",
+            "vod_thumbnail": "https:\/\/uxwing.com\/wp-content\/themes\/uxwing\/download\/32-video-photography-multimedia\/video.png",
+            "type": "Live Video",
+            "free": "no"
+        },
+        {
+            "_id": {
+                "$oid": "61ebdcf716367c60b97a72db"
+            },
+            "title": "Operating system | Lecture - 5",
+            "video_type": "live",
+            "status": 1,
+            "streaming_url": "https:\/\/www.youtube-nocookie.com\/embed\/sHYYSiFSKHc?modestbranding=1",
+            "time_schedule": 1642848300,
+            "watch_limit": "no",
+            "live_status": 2,
+            "live_source": "youtube",
+            "vod_thumbnail": "https:\/\/uxwing.com\/wp-content\/themes\/uxwing\/download\/32-video-photography-multimedia\/video.png",
+            "type": "Live Video",
+            "free": "no"
+        },
+        {
+            "_id": {
+                "$oid": "61eeb436324c6758a242ded6"
+            },
+            "title": "Operating system | Lecture - 6",
+            "video_type": "live",
+            "status": 1,
+            "streaming_url": "https:\/\/www.youtube-nocookie.com\/embed\/O6GXkPoRyEQ?modestbranding=1",
+            "time_schedule": 1643034600,
+            "watch_limit": "no",
+            "live_status": 2,
+            "live_source": "youtube",
+            "vod_thumbnail": "https:\/\/uxwing.com\/wp-content\/themes\/uxwing\/download\/32-video-photography-multimedia\/video.png",
+            "type": "Live Video",
+            "free": "no"
+        },
+        {
+            "_id": {
+                "$oid": "61f14d76d716e2741c280648"
+            },
+            "title": "Operating system | Lecture - 7",
+            "video_type": "live",
+            "status": 1,
+            "streaming_url": "https:\/\/www.youtube-nocookie.com\/embed\/fzHR_XH-IrU?modestbranding=1",
+            "time_schedule": 1643207400,
+            "watch_limit": "no",
+            "live_status": 2,
+            "live_source": "youtube",
+            "watch_time": "",
+            "vod_thumbnail": "https:\/\/uxwing.com\/wp-content\/themes\/uxwing\/download\/32-video-photography-multimedia\/video.png",
+            "type": "Live Video",
+            "free": "no"
+        },
+        {
+            "_id": {
+                "$oid": "61f3f9183c86281a93288f5c"
+            },
+            "title": "Operating system | Lecture - 8",
+            "video_type": "live",
+            "status": 1,
+            "streaming_url": "https:\/\/www.youtube-nocookie.com\/embed\/PWyxuO1Hpqc?modestbranding=1",
+            "time_schedule": 1643443200,
+            "watch_limit": "no",
+            "live_status": 2,
+            "live_source": "youtube",
+            "watch_time": "",
+            "vod_thumbnail": "https:\/\/uxwing.com\/wp-content\/themes\/uxwing\/download\/32-video-photography-multimedia\/video.png",
+            "type": "Live Video",
+            "free": "no"
+        },
+        {
+            "_id": {
+                "$oid": "61f7dc135b5ab5091f593393"
+            },
+            "title": "Operating system | Lecture - 9",
+            "video_type": "live",
+            "status": 1,
+            "streaming_url": "https:\/\/www.youtube-nocookie.com\/embed\/Fd3Ti7nYEtQ?modestbranding=1",
+            "time_schedule": 1643639400,
+            "watch_limit": "no",
+            "live_status": 2,
+            "live_source": "youtube",
+            "watch_time": "",
+            "vod_thumbnail": "https:\/\/uxwing.com\/wp-content\/themes\/uxwing\/download\/32-video-photography-multimedia\/video.png",
+            "type": "Live Video",
+            "free": "no"
+        },
+        {
+            "_id": {
+                "$oid": "61f9466cd647cb2506522d89"
+            },
+            "title": "Operating system | Lecture - 10",
+            "video_type": "live",
+            "status": 1,
+            "streaming_url": "https:\/\/www.youtube-nocookie.com\/embed\/FY5GoJSsPZg?modestbranding=1",
+            "time_schedule": 1643726700,
+            "watch_limit": "no",
+            "live_status": 2,
+            "live_source": "youtube",
+            "vod_thumbnail": "https:\/\/uxwing.com\/wp-content\/themes\/uxwing\/download\/32-video-photography-multimedia\/video.png",
+            "type": "Live Video",
+            "free": "no"
+        },
+        {
+            "_id": {
+                "$oid": "61fbd130c82b7252411f1fbb"
+            },
+            "title": "Operating system | Lecture - 11",
+            "video_type": "live",
+            "status": 1,
+            "streaming_url": "https:\/\/www.youtube-nocookie.com\/embed\/bK_w1U8wN8k?modestbranding=1",
+            "time_schedule": 1643896800,
+            "watch_limit": "no",
+            "live_status": 2,
+            "live_source": "youtube",
+            "watch_time": "",
+            "vod_thumbnail": "https:\/\/uxwing.com\/wp-content\/themes\/uxwing\/download\/32-video-photography-multimedia\/video.png",
+            "type": "Live Video",
+            "free": "no"
+        },
+        {
+            "_id": {
+                "$oid": "61b2ec6c86f36035d56cce2b"
+            },
+            "title": "Operating System",
+            "pdf_link": "https:\/\/d3bioexaf647f4.cloudfront.net\/gyandeepcoachingcenter.onlinetestpanel.com\/1639115883.pdf",
+            "pdf_type": "upload",
+            "type": "Pdf",
+            "free": "no"
+        },
+        {
+            "_id": {
+                "$oid": "6193bf5c3274cd29037fc7d9"
+            },
+            "title": "DBMS l Lecture 1",
+            "video_type": "live",
+            "status": 1,
+            "streaming_url": "https:\/\/www.youtube-nocookie.com\/embed\/9etJf2l7c8o?modestbranding=1",
+            "time_schedule": 1637075700,
+            "watch_limit": "no",
+            "live_status": 2,
+            "live_source": "youtube",
+            "vod_thumbnail": "https:\/\/uxwing.com\/wp-content\/themes\/uxwing\/download\/32-video-photography-multimedia\/video.png",
+            "type": "Live Video",
+            "free": "no"
+        },
+        {
+            "_id": {
+                "$oid": "61950e0a51415f124d089be6"
+            },
+            "title": "DBMS l Lecture 2",
+            "video_type": "live",
+            "status": 1,
+            "streaming_url": "https:\/\/www.youtube-nocookie.com\/embed\/wOEAi4U4Nxo?modestbranding=1",
+            "time_schedule": 1637162100,
+            "watch_limit": "no",
+            "live_status": 2,
+            "live_source": "youtube",
+            "vod_thumbnail": "https:\/\/uxwing.com\/wp-content\/themes\/uxwing\/download\/32-video-photography-multimedia\/video.png",
+            "type": "Live Video",
+            "free": "no"
+        },
+        {
+            "_id": {
+                "$oid": "6197a62ccf61be7bf61ee56f"
+            },
+            "title": "DBMS l Lecture 3",
+            "video_type": "live",
+            "status": 1,
+            "streaming_url": "https:\/\/www.youtube-nocookie.com\/embed\/05yfjMsPmCE?modestbranding=1",
+            "time_schedule": 1637331300,
+            "watch_limit": "no",
+            "live_status": 2,
+            "live_source": "youtube",
+            "watch_time": "",
+            "vod_thumbnail": "https:\/\/uxwing.com\/wp-content\/themes\/uxwing\/download\/32-video-photography-multimedia\/video.png",
+            "type": "Live Video",
+            "free": "no"
+        },
+        {
+            "_id": {
+                "$oid": "619b7be19f26cf5c1820a727"
+            },
+            "title": "DBMS l Lecture 3",
+            "video_type": "live",
+            "status": 1,
+            "streaming_url": "https:\/\/www.youtube-nocookie.com\/embed\/ZDhnR-obIxw?modestbranding=1",
+            "time_schedule": 1637589600,
+            "watch_limit": "no",
+            "live_status": 2,
+            "live_source": "youtube",
+            "vod_thumbnail": "https:\/\/uxwing.com\/wp-content\/themes\/uxwing\/download\/32-video-photography-multimedia\/video.png",
+            "type": "Live Video",
+            "free": "no"
+        },
+        {
+            "_id": {
+                "$oid": "619cf3f67a2cc457b53cb02c"
+            },
+            "title": "DBMS l Lecture 4",
+            "video_type": "live",
+            "status": 1,
+            "streaming_url": "https:\/\/www.youtube-nocookie.com\/embed\/VVE7hCSRfiE?modestbranding=1",
+            "time_schedule": 1637679600,
+            "watch_limit": "no",
+            "live_status": 2,
+            "live_source": "youtube",
+            "vod_thumbnail": "https:\/\/uxwing.com\/wp-content\/themes\/uxwing\/download\/32-video-photography-multimedia\/video.png",
+            "type": "Live Video",
+            "free": "no"
+        },
+        {
+            "_id": {
+                "$oid": "61a8d7232d278000ad5e6492"
+            },
+            "title": "DBMS l Lecture 5",
+            "video_type": "live",
+            "status": 1,
+            "streaming_url": "https:\/\/www.youtube-nocookie.com\/embed\/P3CDxo_qJ_0?modestbranding=1",
+            "time_schedule": 1638454500,
+            "watch_limit": "no",
+            "live_status": 2,
+            "live_source": "youtube",
+            "vod_thumbnail": "https:\/\/uxwing.com\/wp-content\/themes\/uxwing\/download\/32-video-photography-multimedia\/video.png",
+            "type": "Live Video",
+            "free": "no"
+        },
+        {
+            "_id": {
+                "$oid": "61aa2ed01d3b97730e2d6b63"
+            },
+            "title": "DBMS l Lecture 6",
+            "video_type": "live",
+            "status": 1,
+            "streaming_url": "https:\/\/www.youtube-nocookie.com\/embed\/sD9sM6I0CSs?modestbranding=1",
+            "time_schedule": 1638543600,
+            "watch_limit": "no",
+            "live_status": 2,
+            "live_source": "youtube",
+            "vod_thumbnail": "https:\/\/uxwing.com\/wp-content\/themes\/uxwing\/download\/32-video-photography-multimedia\/video.png",
+            "type": "Live Video",
+            "free": "no"
+        },
+        {
+            "_id": {
+                "$oid": "61ae21a66bb964776c205938"
+            },
+            "title": "DBMS l Lecture 7",
+            "video_type": "live",
+            "status": 1,
+            "streaming_url": "https:\/\/www.youtube-nocookie.com\/embed\/EG_jTE3elfg?modestbranding=1",
+            "time_schedule": 1638801900,
+            "watch_limit": "no",
+            "live_status": 2,
+            "live_source": "youtube",
+            "vod_thumbnail": "https:\/\/uxwing.com\/wp-content\/themes\/uxwing\/download\/32-video-photography-multimedia\/video.png",
+            "type": "Live Video",
+            "free": "no"
+        },
+        {
+            "_id": {
+                "$oid": "61af6ddba2a09210f80ca730"
+            },
+            "title": "DBMS l Lecture 8",
+            "video_type": "live",
+            "status": 1,
+            "streaming_url": "https:\/\/www.youtube-nocookie.com\/embed\/K098Y04tsg0?modestbranding=1",
+            "time_schedule": 1638887400,
+            "watch_limit": "no",
+            "live_status": 2,
+            "live_source": "youtube",
+            "vod_thumbnail": "https:\/\/uxwing.com\/wp-content\/themes\/uxwing\/download\/32-video-photography-multimedia\/video.png",
+            "type": "Live Video",
+            "free": "no"
+        },
+        {
+            "_id": {
+                "$oid": "61b21aaa9b7ffa10a340f652"
+            },
+            "title": "DBMS l Lecture 9",
+            "video_type": "live",
+            "status": 1,
+            "streaming_url": "https:\/\/www.youtube-nocookie.com\/embed\/ZImE4fjUy08?modestbranding=1",
+            "time_schedule": 1639062000,
+            "watch_limit": "no",
+            "live_status": 2,
+            "live_source": "youtube",
+            "vod_thumbnail": "https:\/\/uxwing.com\/wp-content\/themes\/uxwing\/download\/32-video-photography-multimedia\/video.png",
+            "type": "Live Video",
+            "free": "no"
+        },
+        {
+            "_id": {
+                "$oid": "61c0aa2ad62a76012d213486"
+            },
+            "title": "DBMS l Lecture 10",
+            "video_type": "live",
+            "status": 1,
+            "streaming_url": "https:\/\/www.youtube-nocookie.com\/embed\/FJbTI-ZjegI?modestbranding=1",
+            "time_schedule": 1640016000,
+            "watch_limit": "no",
+            "live_status": 2,
+            "live_source": "youtube",
+            "vod_thumbnail": "https:\/\/uxwing.com\/wp-content\/themes\/uxwing\/download\/32-video-photography-multimedia\/video.png",
+            "type": "Live Video",
+            "free": "no"
+        },
+        {
+            "_id": {
+                "$oid": "61c1e9840992fb07136038d4"
+            },
+            "title": "DBMS l Lecture 11",
+            "video_type": "live",
+            "status": 1,
+            "streaming_url": "https:\/\/www.youtube-nocookie.com\/embed\/YoJV-S7V_n0?modestbranding=1",
+            "time_schedule": 1640098800,
+            "watch_limit": "no",
+            "live_status": 2,
+            "live_source": "youtube",
+            "vod_thumbnail": "https:\/\/uxwing.com\/wp-content\/themes\/uxwing\/download\/32-video-photography-multimedia\/video.png",
+            "type": "Live Video",
+            "free": "no"
+        },
+        {
+            "_id": {
+                "$oid": "61c335806672f35cc303c79b"
+            },
+            "title": "DBMS l Lecture 12",
+            "video_type": "live",
+            "status": 1,
+            "streaming_url": "https:\/\/www.youtube-nocookie.com\/embed\/iYCGOxtF78g?modestbranding=1",
+            "time_schedule": 1640187000,
+            "watch_limit": "no",
+            "live_status": 2,
+            "live_source": "youtube",
+            "watch_time": "",
+            "vod_thumbnail": "https:\/\/uxwing.com\/wp-content\/themes\/uxwing\/download\/32-video-photography-multimedia\/video.png",
+            "type": "Live Video",
+            "free": "no"
+        },
+        {
+            "_id": {
+                "$oid": "61c5cda030c6a6238d198472"
+            },
+            "title": "DBMS l Lecture 13",
+            "video_type": "live",
+            "status": 1,
+            "streaming_url": "https:\/\/www.youtube-nocookie.com\/embed\/iHED1KXAarw?modestbranding=1",
+            "time_schedule": 1640356200,
+            "watch_limit": "no",
+            "live_status": 2,
+            "live_source": "youtube",
+            "watch_time": "",
+            "vod_thumbnail": "https:\/\/uxwing.com\/wp-content\/themes\/uxwing\/download\/32-video-photography-multimedia\/video.png",
+            "type": "Live Video",
+            "free": "no"
+        },
+        {
+            "_id": {
+                "$oid": "61c88ae29ac0091308520935"
+            },
+            "title": "DBMS l Lecture 14",
+            "video_type": "live",
+            "status": 1,
+            "streaming_url": "https:\/\/www.youtube-nocookie.com\/embed\/4OVk858fang?modestbranding=1",
+            "time_schedule": 1640532600,
+            "watch_limit": "no",
+            "live_status": 2,
+            "live_source": "youtube",
+            "vod_thumbnail": "https:\/\/uxwing.com\/wp-content\/themes\/uxwing\/download\/32-video-photography-multimedia\/video.png",
+            "type": "Live Video",
+            "free": "no"
+        },
+        {
+            "_id": {
+                "$oid": "61cdc5a42e321312e048c561"
+            },
+            "title": "DBMS l Lecture 15",
+            "video_type": "live",
+            "status": 1,
+            "streaming_url": "https:\/\/www.youtube-nocookie.com\/embed\/G3vcmBan0Pc?modestbranding=1",
+            "time_schedule": 1640876400,
+            "watch_limit": "no",
+            "live_status": 2,
+            "live_source": "youtube",
+            "watch_time": "",
+            "vod_thumbnail": "https:\/\/uxwing.com\/wp-content\/themes\/uxwing\/download\/32-video-photography-multimedia\/video.png",
+            "type": "Live Video",
+            "free": "no"
+        },
+        {
+            "_id": {
+                "$oid": "60a0c528acfcef4ca529cb1c"
+            },
+            "title": "DBMS",
+            "pdf_link": "https:\/\/d3bioexaf647f4.cloudfront.net\/gyandeepcoachingcenter.onlinetestpanel.com\/1621148968.PDF",
+            "pdf_type": "upload",
+            "type": "Pdf",
+            "free": "no"
+        },
+        {
+            "_id": {
+                "$oid": "6259725ebe5ae122403f05be"
+            },
+            "title": "COA | Lecture 1",
+            "video_type": "live",
+            "status": 1,
+            "streaming_url": "https:\/\/www.youtube-nocookie.com\/embed\/TMLqPfFEk68?modestbranding=1",
+            "time_schedule": 1650029400,
+            "watch_limit": "no",
+            "live_status": 2,
+            "live_source": "youtube",
+            "vod_thumbnail": "https:\/\/uxwing.com\/wp-content\/themes\/uxwing\/download\/32-video-photography-multimedia\/video.png",
+            "type": "Live Video",
+            "free": "no"
+        },
+        {
+            "_id": {
+                "$oid": "62597295c4766e562724a376"
+            },
+            "title": "COA | Lecture 2",
+            "video_type": "live",
+            "status": 1,
+            "streaming_url": "https:\/\/www.youtube-nocookie.com\/embed\/WCH_rDvluUI?modestbranding=1",
+            "time_schedule": 1650031200,
+            "watch_limit": "no",
+            "live_status": 2,
+            "live_source": "youtube",
+            "vod_thumbnail": "https:\/\/uxwing.com\/wp-content\/themes\/uxwing\/download\/32-video-photography-multimedia\/video.png",
+            "type": "Live Video",
+            "free": "no"
+        },
+        {
+            "_id": {
+                "$oid": "62597c9b4d36b351437e43bb"
+            },
+            "title": "COA | Lecture 3",
+            "video_type": "live",
+            "status": 1,
+            "streaming_url": "https:\/\/www.youtube-nocookie.com\/embed\/1mVC1ZfVStk?modestbranding=1",
+            "time_schedule": 1650033000,
+            "watch_limit": "no",
+            "live_status": 0,
+            "live_source": "youtube",
+            "vod_thumbnail": "https:\/\/uxwing.com\/wp-content\/themes\/uxwing\/download\/32-video-photography-multimedia\/video.png",
+            "type": "Live Video",
+            "free": "no"
+        },
+        {
+            "_id": {
+                "$oid": "62502470f5196724093617d5"
+            },
+            "title": "COA | Lecture - 4 ( Addressing Modes )",
+            "video_type": "live",
+            "status": 1,
+            "streaming_url": "https:\/\/www.youtube-nocookie.com\/embed\/cntOiYlS6GE?modestbranding=1",
+            "time_schedule": 1649980800,
+            "watch_limit": "no",
+            "live_status": 2,
+            "live_source": "youtube",
+            "watch_time": "",
+            "vod_thumbnail": "https:\/\/uxwing.com\/wp-content\/themes\/uxwing\/download\/32-video-photography-multimedia\/video.png",
+            "type": "Live Video",
+            "free": "no"
+        },
+        {
+            "_id": {
+                "$oid": "615dac545947692af63e0a37"
+            },
+            "title": "Introduction l TOC l Lecture 1",
+            "video_type": "live",
+            "status": 1,
+            "streaming_url": "https:\/\/www.youtube-nocookie.com\/embed\/s-Z5MyC0xeo?modestbranding=1",
+            "time_schedule": 1633530600,
+            "watch_limit": "no",
+            "live_status": 2,
+            "live_source": "youtube",
+            "vod_thumbnail": "https:\/\/uxwing.com\/wp-content\/themes\/uxwing\/download\/32-video-photography-multimedia\/video.png",
+            "type": "Live Video",
+            "free": "no"
+        },
+        {
+            "_id": {
+                "$oid": "615f00733580e57f502ff802"
+            },
+            "title": "Grammar l TOC l Lecture 2",
+            "video_type": "live",
+            "status": 1,
+            "streaming_url": "https:\/\/www.youtube-nocookie.com\/embed\/9CRQPJsxfH8?modestbranding=1",
+            "time_schedule": 1633617000,
+            "watch_limit": "no",
+            "live_status": 2,
+            "live_source": "youtube",
+            "watch_time": "",
+            "vod_thumbnail": "https:\/\/uxwing.com\/wp-content\/themes\/uxwing\/download\/32-video-photography-multimedia\/video.png",
+            "type": "Live Video",
+            "free": "no"
+        },
+        {
+            "_id": {
+                "$oid": "6160612241e8d442964cb35a"
+            },
+            "title": "DFA \/ NFA l TOC l Lecture 3",
+            "video_type": "live",
+            "status": 1,
+            "streaming_url": "https:\/\/www.youtube-nocookie.com\/embed\/caiobMJiJrE?modestbranding=1",
+            "time_schedule": 1633665600,
+            "watch_limit": "no",
+            "live_status": 2,
+            "live_source": "youtube",
+            "watch_time": "",
+            "vod_thumbnail": "https:\/\/uxwing.com\/wp-content\/themes\/uxwing\/download\/32-video-photography-multimedia\/video.png",
+            "type": "Live Video",
+            "free": "no"
+        },
+        {
+            "_id": {
+                "$oid": "6161a820b980ca5be810dfff"
+            },
+            "title": "Regular Language l TOC l Lecture 4",
+            "video_type": "live",
+            "status": 1,
+            "streaming_url": "https:\/\/www.youtube-nocookie.com\/embed\/nz4BD-oiBGw?modestbranding=1",
+            "time_schedule": 1633791600,
+            "watch_limit": "no",
+            "live_status": 2,
+            "live_source": "youtube",
+            "vod_thumbnail": "https:\/\/uxwing.com\/wp-content\/themes\/uxwing\/download\/32-video-photography-multimedia\/video.png",
+            "type": "Live Video",
+            "free": "no"
+        },
+        {
+            "_id": {
+                "$oid": "6162f7c419d7281a02628842"
+            },
+            "title": "CFL l TOC l Lecture 5",
+            "video_type": "live",
+            "status": 1,
+            "streaming_url": "https:\/\/www.youtube-nocookie.com\/embed\/Kl_OkODbJQE?modestbranding=1",
+            "time_schedule": 1633876200,
+            "watch_limit": "no",
+            "live_status": 2,
+            "live_source": "youtube",
+            "vod_thumbnail": "https:\/\/uxwing.com\/wp-content\/themes\/uxwing\/download\/32-video-photography-multimedia\/video.png",
+            "type": "Live Video",
+            "free": "no"
+        },
+        {
+            "_id": {
+                "$oid": "61644cc319d7281a0262a322"
+            },
+            "title": "CSL l LBA l TOC l Lecture 6",
+            "video_type": "live",
+            "status": 1,
+            "streaming_url": "https:\/\/www.youtube-nocookie.com\/embed\/LHmrQ6c6lys?modestbranding=1",
+            "time_schedule": 1633964400,
+            "watch_limit": "no",
+            "live_status": 2,
+            "live_source": "youtube",
+            "vod_thumbnail": "https:\/\/uxwing.com\/wp-content\/themes\/uxwing\/download\/32-video-photography-multimedia\/video.png",
+            "type": "Live Video",
+            "free": "no"
+        },
+        {
+            "_id": {
+                "$oid": "61698e5b52d63a4253129a0b"
+            },
+            "title": "Closure Properties of Language l TOC l Lecture 7",
+            "video_type": "live",
+            "status": 1,
+            "streaming_url": "https:\/\/www.youtube-nocookie.com\/embed\/ODKwemHpd_Y?modestbranding=1",
+            "time_schedule": 1634310000,
+            "watch_limit": "no",
+            "live_status": 2,
+            "live_source": "youtube",
+            "vod_thumbnail": "https:\/\/uxwing.com\/wp-content\/themes\/uxwing\/download\/32-video-photography-multimedia\/video.png",
+            "type": "Live Video",
+            "free": "no"
+        },
+        {
+            "_id": {
+                "$oid": "621369b3eaa27339c92d64f0"
+            },
+            "title": "Programming in C \/ Lecture -1",
+            "video_type": "live",
+            "status": 1,
+            "streaming_url": "https:\/\/www.youtube-nocookie.com\/embed\/iEks5VxqfP0?modestbranding=1",
+            "time_schedule": 1645453800,
+            "watch_limit": "no",
+            "live_status": 2,
+            "live_source": "youtube",
+            "watch_time": "",
+            "vod_thumbnail": "https:\/\/uxwing.com\/wp-content\/themes\/uxwing\/download\/32-video-photography-multimedia\/video.png",
+            "type": "Live Video",
+            "free": "no"
+        },
+        {
+            "_id": {
+                "$oid": "621793619a5f9c5c7751db75"
+            },
+            "title": "Programming in C ( Lecture - 2 )",
+            "video_type": "live",
+            "status": 1,
+            "streaming_url": "https:\/\/www.youtube-nocookie.com\/embed\/6aygRTFIp60?modestbranding=1",
+            "time_schedule": 1645713000,
+            "watch_limit": "no",
+            "live_status": 2,
+            "live_source": "youtube",
+            "vod_thumbnail": "https:\/\/uxwing.com\/wp-content\/themes\/uxwing\/download\/32-video-photography-multimedia\/video.png",
+            "type": "Live Video",
+            "free": "no"
+        },
+        {
+            "_id": {
+                "$oid": "6220c9b46177365c8537b91e"
+            },
+            "title": "Programming in C ( Lecture - 3 )",
+            "video_type": "live",
+            "status": 1,
+            "streaming_url": "https:\/\/www.youtube-nocookie.com\/embed\/dcNW0cE0FRI?modestbranding=1",
+            "time_schedule": 1646320500,
+            "watch_limit": "no",
+            "live_status": 2,
+            "live_source": "youtube",
+            "vod_thumbnail": "https:\/\/uxwing.com\/wp-content\/themes\/uxwing\/download\/32-video-photography-multimedia\/video.png",
+            "type": "Live Video",
+            "free": "no"
+        },
+        {
+            "_id": {
+                "$oid": "62223437833bab3345643e53"
+            },
+            "title": "Programming in C ( Lecture - 4 )",
+            "video_type": "live",
+            "status": 1,
+            "streaming_url": "https:\/\/www.youtube-nocookie.com\/embed\/Ui_HvKjSCdA?modestbranding=1",
+            "time_schedule": 1646408700,
+            "watch_limit": "no",
+            "live_status": 2,
+            "live_source": "youtube",
+            "vod_thumbnail": "https:\/\/uxwing.com\/wp-content\/themes\/uxwing\/download\/32-video-photography-multimedia\/video.png",
+            "type": "Live Video",
+            "free": "no"
+        },
+        {
+            "_id": {
+                "$oid": "6222d9ea7ee91857187c7d7a"
+            },
+            "title": "Programmimg in C | Lecture 5",
+            "video_type": "live",
+            "status": 1,
+            "streaming_url": "https:\/\/www.youtube-nocookie.com\/embed\/ukqev0slk80?modestbranding=1",
+            "time_schedule": 1646495100,
+            "watch_limit": "no",
+            "live_status": 2,
+            "live_source": "youtube",
+            "vod_thumbnail": "https:\/\/uxwing.com\/wp-content\/themes\/uxwing\/download\/32-video-photography-multimedia\/video.png",
+            "type": "Live Video",
+            "free": "no"
+        },
+        {
+            "_id": {
+                "$oid": "622607e436cf6d1a7325a7e6"
+            },
+            "title": "Programming in C | Lecture 6",
+            "video_type": "vod",
+            "add_type": "youtube",
+            "status": 1,
+            "video_link": "https:\/\/www.youtube.com\/watch?v=rTe61l1QlRI",
+            "watch_limit": "no",
+            "vod_thumbnail": "https:\/\/uxwing.com\/wp-content\/themes\/uxwing\/download\/32-video-photography-multimedia\/video.png",
+            "type": "Video",
+            "free": "no"
+        },
+        {
+            "_id": {
+                "$oid": "6226084be53a1379087249fc"
+            },
+            "title": "Programming in C | Lecture 7",
+            "video_type": "vod",
+            "add_type": "youtube",
+            "status": 1,
+            "video_link": "https:\/\/www.youtube.com\/watch?v=-NE60YqHY44",
+            "watch_limit": "no",
+            "vod_thumbnail": "https:\/\/uxwing.com\/wp-content\/themes\/uxwing\/download\/32-video-photography-multimedia\/video.png",
+            "type": "Video",
+            "free": "no"
+        },
+        {
+            "_id": {
+                "$oid": "62651532da8ebf65f46d2460"
+            },
+            "title": "Compiler | Lecture 1",
+            "video_type": "live",
+            "status": 1,
+            "streaming_url": "https:\/\/www.youtube-nocookie.com\/embed\/6ltxVaPC14A?modestbranding=1",
+            "time_schedule": 1650791700,
+            "watch_limit": "no",
+            "live_status": 2,
+            "live_source": "youtube",
+            "vod_thumbnail": "https:\/\/uxwing.com\/wp-content\/themes\/uxwing\/download\/32-video-photography-multimedia\/video.png",
+            "type": "Live Video",
+            "free": "no"
+        },
+        {
+            "_id": {
+                "$oid": "626515e0b8d06416ea148b44"
+            },
+            "title": "Compiler | Lecture 2",
+            "video_type": "live",
+            "status": 1,
+            "streaming_url": "https:\/\/www.youtube-nocookie.com\/embed\/E6lLjJVFMu8?modestbranding=1",
+            "time_schedule": 1650792600,
+            "watch_limit": "no",
+            "live_status": 2,
+            "live_source": "youtube",
+            "vod_thumbnail": "https:\/\/uxwing.com\/wp-content\/themes\/uxwing\/download\/32-video-photography-multimedia\/video.png",
+            "type": "Live Video",
+            "free": "no"
+        },
+        {
+            "_id": {
+                "$oid": "62655c1a6eebd445b1014406"
+            },
+            "title": "Compiler | Lecture 3",
+            "video_type": "live",
+            "status": 1,
+            "streaming_url": "https:\/\/www.youtube-nocookie.com\/embed\/PpbuOno0HAg?modestbranding=1",
+            "time_schedule": 1650809700,
+            "watch_limit": "no",
+            "live_status": 2,
+            "live_source": "youtube",
+            "vod_thumbnail": "https:\/\/uxwing.com\/wp-content\/themes\/uxwing\/download\/32-video-photography-multimedia\/video.png",
+            "type": "Live Video",
+            "free": "no"
+        },
+        {
+            "_id": {
+                "$oid": "6270f27f3b169070b36a077a"
+            },
+            "title": "Compiler | Lecture 4",
+            "video_type": "live",
+            "status": 1,
+            "streaming_url": "https:\/\/www.youtube-nocookie.com\/embed\/S3aQ5Wo-UEg?modestbranding=1",
+            "time_schedule": 1651569300,
+            "watch_limit": "no",
+            "live_status": 2,
+            "live_source": "youtube",
+            "vod_thumbnail": "https:\/\/uxwing.com\/wp-content\/themes\/uxwing\/download\/32-video-photography-multimedia\/video.png",
+            "type": "Live Video",
+            "free": "no"
+        },
+        {
+            "_id": {
+                "$oid": "6270f2f37516597cd2312669"
+            },
+            "title": "Compiler | Lecture 5",
+            "video_type": "live",
+            "status": 1,
+            "streaming_url": "https:\/\/www.youtube-nocookie.com\/embed\/iJ4KYul1hGs?modestbranding=1",
+            "time_schedule": 1651570200,
+            "watch_limit": "no",
+            "live_status": 2,
+            "live_source": "youtube",
+            "vod_thumbnail": "https:\/\/uxwing.com\/wp-content\/themes\/uxwing\/download\/32-video-photography-multimedia\/video.png",
+            "type": "Live Video",
+            "free": "no"
+        },
+        {
+            "_id": {
+                "$oid": "6270f394da039a317823fb21"
+            },
+            "title": "Compiler | Lecture 6",
+            "video_type": "live",
+            "status": 1,
+            "streaming_url": "https:\/\/www.youtube-nocookie.com\/embed\/UtQPxuIT8gA?modestbranding=1",
+            "time_schedule": 1651574700,
+            "watch_limit": "no",
+            "live_status": 2,
+            "live_source": "youtube",
+            "vod_thumbnail": "https:\/\/uxwing.com\/wp-content\/themes\/uxwing\/download\/32-video-photography-multimedia\/video.png",
+            "type": "Live Video",
+            "free": "no"
+        }
+    ],
+    "page": 2
+}
