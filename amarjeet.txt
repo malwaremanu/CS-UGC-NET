@@ -1,0 +1,321 @@
+Number System l Digital Electronics l Lecture 1
+https://www.youtube.com/watch?v=qgPIQEY-ZU8
+
+Number System Conversion l Digital Electronics l Lecture 2
+https://www.youtube.com/watch?v=WPypJUu0fj0
+
+Number System - conversion l Digital Electronics l Lecture 3
+https://www.youtube.com/watch?v=o1PABtvg2zE
+
+Number Representation l Digital Electronics l Lecture 4
+https://www.youtube.com/watch?v=d90Qc8mUIgU
+
+Number Representation l Digital Electronics l Lecture 5
+https://www.youtube.com/watch?v=NjQQ3xVOwlc
+
+Boolean Algebra l Digital Electronics l Lecture 6
+https://www.youtube.com/watch?v=89libS3CdsU
+
+Boolean expression l Digital Electronics l Lecture 7
+https://www.youtube.com/watch?v=Pga_xqtD8Ew
+
+K-map l Digital Electronics l Lecture 8
+https://www.youtube.com/watch?v=10qJVuelSbk
+
+Kmap 2 l Digital Electronics l Lecture 9
+https://www.youtube.com/watch?v=9YhrRF8PBy0
+
+kmap 3 l Digital Electronics l Lecture 10
+https://www.youtube.com/watch?v=SAWJjfn8QP4
+
+kmap 4 l Digital Electronics  l Lecture 11
+https://www.youtube.com/watch?v=nkx5sVfBEHQ
+
+Combinational Circuit l Digital Electronics l Lecture 12
+https://www.youtube.com/watch?v=wqbqsMHWWMo
+
+Combinational circuit 2 l Digital Electronics l Lecture 13
+https://www.youtube.com/watch?v=jWsGz0cTWbc
+
+Combinational  circuits 3 I digital Electronics l Lecture 14
+https://www.youtube.com/watch?v=S29SCc5i3Bw
+
+Combinational circuit 4 l Digital Electronics l Lecture 15
+https://www.youtube.com/watch?v=CJG4iV0mLMQ
+
+Sequential circuit l Digital Electronics l Lecture 16
+https://www.youtube.com/watch?v=GiudPtxoHUE
+
+Sequential circuit 2 l Digital Electronics l Lecture 17
+https://www.youtube.com/watch?v=Rzd0LFBIUWg
+
+Sequential circuit 3 l Digital Electronics l Lecture 18
+https://www.youtube.com/watch?v=kiTBeJgRnOg
+
+Code conversion and binary arithmetic operation l Digital Electronics l Lecture 19
+https://www.youtube.com/watch?v=VkPzsaJitEU
+
+Doubt session l Digital Electronics l Lecture 20
+https://www.youtube.com/watch?v=JKytXntW0EE
+
+Introduction l Data Structure l Lecture 1
+https://www.youtube.com/watch?v=uySN0tQT48E
+
+Array l Data Structure l Lecture 2
+https://www.youtube.com/watch?v=RHS4EeOZUic
+
+Stack l Data Structure l Lecture 3
+https://www.youtube.com/watch?v=tmlllapwa_4
+
+Stack 2 l Data Structure l Lecture 4
+https://www.youtube.com/watch?v=pPc4wi7sTjg
+
+Queue l Data Structure l Lecture 5
+https://www.youtube.com/watch?v=y98_QLMgmmg
+
+Linked List l Data Structure l Lecture 6
+https://www.youtube.com/watch?v=fzckrM6sdrs
+
+Tree l Data Structure l Lecture 7
+https://www.youtube.com/watch?v=cMXjSMsYe1k
+
+Binary tree l Data Structure l Lecture 8
+https://www.youtube.com/watch?v=pi1KHOSXQG8
+
+Tree traversal l Data Structure l Lecture 9
+https://www.youtube.com/watch?v=8P1Zh3OhdY0
+
+Binary tree construction l Data Structure l Lecture 10
+https://www.youtube.com/watch?v=mke2N7aHRUs
+
+Binary Search Tree l Data Structure l Lecture- 11
+https://www.youtube.com/watch?v=4XR9AUXZZt8
+
+AVL tree l Data Structure l Lecture 12
+https://www.youtube.com/watch?v=Vp0uIxO5RgA
+
+Red Black tree l Data Structure l Lecture 13
+https://www.youtube.com/watch?v=zNKnppLWXbU
+
+Sorting l Data Structure l Lecture 14
+https://www.youtube.com/watch?v=t5qp0SV3sck
+
+Sorting 2 l Data Structure l Lecture 15
+https://www.youtube.com/watch?v=E9y3uva3UZY
+
+Searching l Data Structure l Lecture 16
+https://www.youtube.com/watch?v=ctmOqnaNJhk
+
+Hashing l Data Structure l Lecture 17
+https://www.youtube.com/watch?v=hQcEB10yXPc
+
+Graph Traversal l Algorithm | Lecture 1
+https://www.youtube.com/watch?v=M_DkEGVmRpQ
+
+MST l Algorithm l Lecture 2
+https://www.youtube.com/watch?v=nD9yLkAVgBs
+
+Algorithm l Lecture - 3
+https://www.youtube.com/watch?v=0VjZWX6vg8A
+
+Algorithm l Lecture 4
+https://www.youtube.com/watch?v=Uaq2s4YiEgU
+
+Algorithm l Lecture 5
+https://www.youtube.com/watch?v=5NL3A5VCR4Y
+
+Algorithm l Lecture 6
+https://www.youtube.com/watch?v=cB2YahooFzY
+
+Computer Networking l Lecture 1
+https://www.youtube.com/watch?v=O-T6aFwt7h8
+
+Computer Networking | Lecture - 2
+https://www.youtube.com/watch?v=HNQbKmY3nAk
+
+Computer Networking | Lecture - 3
+https://www.youtube.com/watch?v=UdSSj-cdof4
+
+Computer Networking | Lecture - 4
+https://www.youtube.com/watch?v=fgtW-_zdd3M
+
+Computer Networking | Lecture - 5
+https://www.youtube.com/watch?v=FwpWfbn3ZTI
+
+Computer Networking | Lecture - 6
+https://www.youtube.com/watch?v=NruNXPIl2bc
+
+Computer Networking | Lecture - 7
+https://www.youtube.com/watch?v=bwiSW5RyYOk
+
+Computer Networking | Lecture - 8
+https://www.youtube.com/watch?v=O2w4_dCLmQY
+
+Computer Networking | Lecture - 9
+https://www.youtube.com/watch?v=tVTT1a5Ii_A
+
+Computer Networking | Lecture - 10
+https://www.youtube.com/watch?v=ddsWqQfScPA
+
+Computer Networking | Lecture - 11
+https://www.youtube.com/watch?v=gbQr0Rxz1Fg
+
+Operating system | Lecture - 1
+https://www.youtube.com/watch?v=mb-L0RNRIUk
+
+Operating system | Lecture - 2
+https://www.youtube.com/watch?v=Em5CegkAARs
+
+Operating system | Lecture - 3
+https://www.youtube.com/watch?v=jDa1Qob0dYk
+
+Operating system | Lecture - 4
+https://www.youtube.com/watch?v=pzGJ4YCO_vQ
+
+Operating system | Lecture - 5
+https://www.youtube.com/watch?v=sHYYSiFSKHc
+
+Operating system | Lecture - 6
+https://www.youtube.com/watch?v=O6GXkPoRyEQ
+
+Operating system | Lecture - 7
+https://www.youtube.com/watch?v=fzHR_XH-IrU
+
+Operating system | Lecture - 8
+https://www.youtube.com/watch?v=PWyxuO1Hpqc
+
+Operating system | Lecture - 9
+https://www.youtube.com/watch?v=Fd3Ti7nYEtQ
+
+Operating system | Lecture - 10
+https://www.youtube.com/watch?v=FY5GoJSsPZg
+
+Operating system | Lecture - 11
+https://www.youtube.com/watch?v=bK_w1U8wN8k
+
+Operating System
+https://d3bioexaf647f4.cloudfront.net/gyandeepcoachingcenter.onlinetestpanel.com/1639115883.pdf
+
+DBMS l Lecture 1
+https://www.youtube.com/watch?v=9etJf2l7c8o
+
+DBMS l Lecture 2
+https://www.youtube.com/watch?v=wOEAi4U4Nxo
+
+DBMS l Lecture 3
+https://www.youtube.com/watch?v=05yfjMsPmCE
+
+DBMS l Lecture 3
+https://www.youtube.com/watch?v=ZDhnR-obIxw
+
+DBMS l Lecture 4
+https://www.youtube.com/watch?v=VVE7hCSRfiE
+
+DBMS l Lecture 5
+https://www.youtube.com/watch?v=P3CDxo_qJ_0
+
+DBMS l Lecture 6
+https://www.youtube.com/watch?v=sD9sM6I0CSs
+
+DBMS l Lecture 7
+https://www.youtube.com/watch?v=EG_jTE3elfg
+
+DBMS l Lecture 8
+https://www.youtube.com/watch?v=K098Y04tsg0
+
+DBMS l Lecture 9
+https://www.youtube.com/watch?v=ZImE4fjUy08
+
+DBMS l Lecture 10
+https://www.youtube.com/watch?v=FJbTI-ZjegI
+
+DBMS l Lecture 11
+https://www.youtube.com/watch?v=YoJV-S7V_n0
+
+DBMS l Lecture 12
+https://www.youtube.com/watch?v=iYCGOxtF78g
+
+DBMS l Lecture 13
+https://www.youtube.com/watch?v=iHED1KXAarw
+
+DBMS l Lecture 14
+https://www.youtube.com/watch?v=4OVk858fang
+
+DBMS l Lecture 15
+https://www.youtube.com/watch?v=G3vcmBan0Pc
+
+DBMS
+https://d3bioexaf647f4.cloudfront.net/gyandeepcoachingcenter.onlinetestpanel.com/1621148968.PDF
+
+COA | Lecture 1
+https://www.youtube.com/watch?v=TMLqPfFEk68
+
+COA | Lecture 2
+https://www.youtube.com/watch?v=WCH_rDvluUI
+
+COA | Lecture 3
+https://www.youtube.com/watch?v=1mVC1ZfVStk
+
+COA | Lecture - 4 ( Addressing Modes )
+https://www.youtube.com/watch?v=cntOiYlS6GE
+
+Introduction l TOC l Lecture 1
+https://www.youtube.com/watch?v=s-Z5MyC0xeo
+
+Grammar l TOC l Lecture 2
+https://www.youtube.com/watch?v=9CRQPJsxfH8
+
+DFA / NFA l TOC l Lecture 3
+https://www.youtube.com/watch?v=caiobMJiJrE
+
+Regular Language l TOC l Lecture 4
+https://www.youtube.com/watch?v=nz4BD-oiBGw
+
+CFL l TOC l Lecture 5
+https://www.youtube.com/watch?v=Kl_OkODbJQE
+
+CSL l LBA l TOC l Lecture 6
+https://www.youtube.com/watch?v=LHmrQ6c6lys
+
+Closure Properties of Language l TOC l Lecture 7
+https://www.youtube.com/watch?v=ODKwemHpd_Y
+
+Programming in C / Lecture -1
+https://www.youtube.com/watch?v=iEks5VxqfP0
+
+Programming in C ( Lecture - 2 )
+https://www.youtube.com/watch?v=6aygRTFIp60
+
+Programming in C ( Lecture - 3 )
+https://www.youtube.com/watch?v=dcNW0cE0FRI
+
+Programming in C ( Lecture - 4 )
+https://www.youtube.com/watch?v=Ui_HvKjSCdA
+
+Programmimg in C | Lecture 5
+https://www.youtube.com/watch?v=ukqev0slk80
+
+Programming in C | Lecture 6
+https://www.youtube.com/watch?v=rTe61l1QlRI
+
+Programming in C | Lecture 7
+https://www.youtube.com/watch?v=-NE60YqHY44
+
+Compiler | Lecture 1
+https://www.youtube.com/watch?v=6ltxVaPC14A
+
+Compiler | Lecture 2
+https://www.youtube.com/watch?v=E6lLjJVFMu8
+
+Compiler | Lecture 3
+https://www.youtube.com/watch?v=PpbuOno0HAg
+
+Compiler | Lecture 4
+https://www.youtube.com/watch?v=S3aQ5Wo-UEg
+
+Compiler | Lecture 5
+https://www.youtube.com/watch?v=iJ4KYul1hGs
+
+Compiler | Lecture 6
+https://www.youtube.com/watch?v=UtQPxuIT8gA
+
