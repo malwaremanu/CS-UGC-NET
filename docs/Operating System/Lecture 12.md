@@ -1,3 +1,5 @@
+# Operating System - Lecture 12: RAID
+
 RAID (Redundant Array of Independent Disks) is a method of combining multiple physical disks into a single logical unit to improve performance, increase fault tolerance, or balance both, and questions on its concepts, levels, and calculations are common in exams like UGC NET, GATE, DSSSB, KVS, and NVS. Different RAID levels (0, 1, 2, 3, 4, 5, 6, 10) vary in how they distribute data, parity, and redundancy, which directly affects storage efficiency, reliability, and I/O speed—these differences are frequently targeted in conceptual and application-based MCQs.[1][2][3][4][5][6]
 
 ## Core idea of RAID  
